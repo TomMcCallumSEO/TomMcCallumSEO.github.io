@@ -1,1 +1,0 @@
-# TomMcCallumSEO.github.io
