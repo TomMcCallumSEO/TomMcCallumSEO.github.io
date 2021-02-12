@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>Local SEO strategy for Edinburgh Businesses | Blog | The SEOniverse</title>
+
+  <meta name="description" content="Make sure your business website can compete among Edinburgh's fierce competition with a solid local SEO strategy.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/blog/72-free-seo-tools">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1 style="text-align:left;">Local SEO strategy for Edinburgh small businesses: how to put your business on the map</h1>
+
+<img src="https://www.theseoniverse.com/images/edinburgh-local-google-map.png" />
+
+<p>Edinburgh is a thriving city full of amazing opportunities for startup businesses. From tech to tourism, cafes to construction, there really is every type of business and all of them are battling for space online.</p>
+
+<p>To make sure your website can compete among such fierce competition you really need a solid SEO strategy and any SEO worth their salt will tell you that for small businesses in Edinburgh a local SEO strategy is the way to go.</p>
+
+<h2>What is a local SEO strategy?</h2>
+
+<p>Let’s say your an accountant who has just opened an office on the shore. You might be tempted to make your website rank for search terms such as “accounting”, or “accountant”, maybe even “bookkeeping”. These terms all have a massive monthly search volume so it would be great to get your website ranking for them:</p>
+
+<table>
+ <tr>
+   <th>Search term</th>
+   <th>UK monthly search volume</th>
+ </tr>
+  <tr>
+   <td>accountant</td>
+   <td>27,100</td>
+ </tr>
+  <tr>
+   <td>accounting</td>
+   <td>33,100</td>
+ </tr>
+  <tr>
+   <td>bookkeeping</td>
+   <td>14,800</td>
+ </tr>
+</table>
+
+<p>Look at “accounting” – 33,100 people in the UK searching for that term each month. Imagine how much traffic your website would receive if you were prominent in the search results for that term!</p>
+
+<p>But then consider how many people who type that query are actually looking specifically for your services - probably not that many.</p>
+
+<p>I can also tell you now that the competition to rank for such a term will be far to high for a small business to even scratch the surface - you’d need a huge strategy of links and content that might take months of work to have an impact. Not impossible, just not a smart strategy for a busy local business owner.</p>
+
+<p>The best advice is to leave such shiny, high-volume terms to the big national or international brands and focus instead on keywords that are more relevant to your actual audience.</p>
+
+<h2>Local SEO for Edinburgh businesses</h2>
+
+<p>Focusing on local SEO is a far more lucrative strategy. If you think of the keyword “hairdressers” with 135,000 monthly search volume this is a fine example of a head term (pardon the pun) that you’ll really struggle to rank a small business website for.</p>
+
+<p>Now consider “hairdressers edinburgh” - it’s clear what people are after with this one - a hairdresser in Edinburgh! Search volume is lower - 6,600 per month, but you’re far more likely to appear in search results for this term.</p>
+
+<p>And look what happens when you search for it:</p>
+
+ <img src="https://www.theseoniverse.com/images/hairdressers-edinburgh-search.png" style="max-width:100%;"/>
+ 
+<p>The results are all local hairdressers close by to where the search was performed.</p>
+
+<p>The box of three results with the map at the top is known as the “local three pack” and if you want to drive customers to your small business website in Edinburgh, your strategy should be focused on getting in here.</p>
+
+<h2>How to get in the local three pack for Edinburgh-based searches</h2>
+
+<p>To get in the local pack you simply need to create a Google My Business page.</p> 
+
+<p>First go to <a href="https://www.google.com/business/">Google My Business</a> and follow the instructions, ensuring you complete as many of the fields as possible.</p>
+
+<p>Google will then send you an activation code to your specified address. Once you type this into your account and it is active you’ll automatically get a listing on Google maps, like this one for Edinburgh Castle:</p>
+
+<img src="https://www.theseoniverse.com/images/edinburgh-castle-local-maps-listing.png" style="max-width:100%;"/>
+ 
+<p>The benefit of this type of listing is that when people search in Google for your brand name, the results will be pulled in from the information in your maps listing. If your listing is good enough, Google will also pull it in for searches performed near your business for non-brand, local terms that are related to your business – as with the businesses above for the “hairdressers in edinburgh” search.</p>
+
+<p>If you want to increase the likelihood of appearing for non-brand, local search terms, you need to do some optimisation work.</p>
+
+<h2>How to optimise your local business listing</h2>
+
+<p>Whereas content and links are the most important SEO factors for big businesses, local results are governed by slightly different factors. Content and links are still important, but the consistency of your business’s name address and phone number across the web is essential.</p>
+
+<h3>The importance of NAPs for your business</h3>
+
+<p>The consistency of how your business’s name, address and phone number appear online plays a big role in helping the major search engines have confidence in listing you prominently in local search results. Online listing directory, YELL has produced a <a href="https://www.yell.com/connectscan/">handy tool to check your listings</a> across the web. Put your business name, website and address into the tool, make sure any listings are up to date and add your website to any local listings sites where your business is missing.</p>
+
+<h3>Positive reviews</h3>
+
+<p>Reviews are incredibly important for local businesses online. Don’t feel bad about asking customers to leave a review on your Google my Business profile - it could be the difference between you appearing in Google local three pack or not.</p>
+
+<h3>Social media profiles</h3>
+
+<p>For more reasons than SEO you should keep your business’s social media profiles up-to-date. Answer customer queries as quickly as you can and share useful content that’s relevant to your business.</p>
+
+<p>Don’t try to do it all! Pick one or two platforms and really invest in your approach, setting aside time each day to keep it updated. Google will be looking for you to be active and responsive online.</p>
+
+<h2>Local SEO for businesses without an address</h2>
+
+<p>If you’re a freelancer or contractor you may not have a business address and not be willing to list your home address. What’s more, if you want to get your business on google maps, according to Google’s guidelines, the address must be registered business address - a residential address, shared address (like a co-working space) or PO Box won’t cut it.</p>
+
+<p>The good news is that you can still get your business listed! Just select “service area” in your Google My Business account and fill in the details for the local area you serve. Your address will then remain hidden from searchers, but remember that Google will still need it to send your verification code.</p>
+
+<p>On Google Maps you’ll see an outline for your service area instead of a pin in the map - like this one for the SEOniverse:</p>
+
+<img src="https://www.theseoniverse.com/images/SEOniverse-maps-listing.png" style="max-width:100%;"/>
+
+<p>Need a hand getting your business listed in the local pack? <a href="https://www.theseoniverse.com/contact/">Get in touch and we can start working on a local SEO strategy</a> to get you Edinburgh-based traffic right away!</p> 
+
+<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+
+</div>
+
+
+<div class="side-bar">
+<h3>More from the blog</h3>
+
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+
+</div>
+</div>
+
+</body>
+
+</html>

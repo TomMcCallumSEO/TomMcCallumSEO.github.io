@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>72 free SEO tools for small businesses in 2017 | Blog | The SEOniverse</title>
+
+  <meta name="description" content="72 free SEO tools that are easy to use, can have a big impact on your website's success and are totally free! What more could you want?">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/blog/72-free-seo-tools">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>72 free (but invaluable) SEO tools for small business websites</h1>
+
+<p>The best things in life are free – the same is true of basic SEO. Here's a rundown of over 70 of the best free tools for your SEO arsenal.</p>
+
+<h4>| <a href="#seo-auditing">SEO Auditing</a> | <a href="#keyword-research">Keyword Research</a> | <a href="#website-analytics">Website Analytics</a> | <a href="#outreach">Outreach</a> | <a href="#page-speed">Page Speed Optimising</a> | <a href="#penalty-checking">Penalty Checking</a> | <a href="#metadata-optimising">Metadata Optimising</a> | <a href="#other">Other</a> |</h4>
+
+
+
+<!-- SEO AUDITING -->
+
+<a name="seo-auditing"></a>
+
+<h2>SEO Auditing</h2>
+
+<h3>1. <a href="https://www.google.com/webmasters/tools/">Google Search Console</a></h3>
+
+
+<p>Google Search Console (formerly webmaster tools) is the authoritative source on how Googlebot is crawling your site. With information on impression, clicks and ranking for pages and queries as well as error reports, page speed stats and sitemap details, Search Console is up there with Google Analytics in the category of 'must have' tools for anyone with a website. The only problem with this tool is that the data is always a few days behind, making it a bit harder to analyse any sudden changes, such as a significant drop in rankings.</p>
+
+<h3>2. <a href="https://www.screamingfrog.co.uk/seo-spider/">Screaming Frog</a></h3>
+
+
+<p>Screaming Frog is one of the best tools out there for SEOs looking for a reliable bot to crawl their website and show any errors. Screaming Frog's is capapble of spidering all your content –  links, images, CSS, script and apps – so you can evaluate your SEO with all the information that you need.</p>
+
+<h3>3. <a href="https://www.bing.com/toolbox/webmaster">Bing Webmaster Tools</a></h3>
+
+
+<p>Similar to Google Search Console, and with many of the same analytics reports, Bing Webmaster Tools is a great tool to use to find out how BingBot is crawling your site. It's a particularly useful tool to use in conjunction with Google Search Console to check for any errors that affect both crawlers, in your sitemap or robots.txt files, for example.</p>
+
+<h3>4. <a href="https://www.removeem.com/anchor-text-ratios/">Removeem</a></h3>
+
+
+<p>There's a fine line between perfectly optimising your website and over-optimising. Find out if the search engines will look unfavourably on your <a href="https://www.theseoniverse.com/glossary/anchor-text">anchor text</a> with Removeem's handy tool.</p>
+
+
+<h3>5. <a href="http://www.hobo-web.co.uk/auditor/">Hobo Web Free SEO Audit</a></h3>
+
+
+<p>Glasgow-based Hobo Web's free SEO audit will flag any major errors in your site's SEO. It's quite an insightful tool for a freebie and well worth trying out once in a while.</p>
+
+<h3>6. <a href="http://www.similarweb.com/">Similar Web</a></h3>
+
+
+<p>SimlarWeb's free package benchmarks your site against your competitors with metrics such as estimated visits, time on site and bounce rate. It's a great tool for unveiling competitors' SEO strategies as well as for finding powerful partners in your field.</p>
+
+<h3>7. <a href="https://moz.com/products/pro/seo-toolbar">MozBar</a></h3>
+
+
+<p>MozBar is a fantastic plugin for Chrome that gives you a great idea of the ranking power of every website you visit. Compare link metrics across pages, get an idea of page and <a href="https://www.theseoniverse.com/glossary/authority">domain authority</a>, find an highlight keywords on a particular page and more. MozBar is a great go-to tool for speedy page analysis.</p>
+
+<h3>8. <a href="http://www.contentforest.com/seo-tools/image-alt-checker">Content Forest Alt Text Checker</a></h3>
+
+
+
+<p>Alt text is an important and often overlooked part of any webpage meta information. Check your image alt text is in order with the this handy tool from Content Forest.</p>
+
+
+<h3>9. <a href="https://www.quicksprout.com/">Quick Sprout Analyzer</a></h3>
+
+<p>Quick Sprout's home page features a handy analysis tool which will return information about the search appearance of your web pages.</p>
+
+
+<h3>10. <a href="https://suite.searchmetrics.com/en/research">Searchmetrics</a></h3>
+
+
+<p>Monitor the performance of your website and content in search with Searchmetrics free search audit tool. Check search visibility on mobile and desktop, take a peek at your top performing keywords and get insight ino how your site compares to your competitors' sites.</p>
+
+
+<h3>11. <a href="https://varvy.com/">Varvy SEO Tool</a></h3>
+
+<p>Enter your homepage url into Varvy's SEO tool and get a full report detailing how well your site adheres to Google's recommendations. A simple tool with a lovely interface and a perfectly designed report. It's nice to get a report that focuses on the important things, mainly: what does Google think of this page.</p>
+
+
+<h3>12. <a href="http://seositecheckup.com/">SEO SiteCheckup</a></h3>
+
+<p>Get an in-depth SEO analysis of your website in simple terms with SEO Site Checkup. Simply enter your url and the tool does the rest. If your looking to create a to do list of simple fixes with an explanation of what needs to be done this is the tool for you.</p>
+
+
+<h3>13. <a href="https://mozlocal.com/">Moz Local</a></h3>
+
+
+<p>If you run a local business it's crusial that your local listing information is correct. Run your business through this great, free tool from Moz to find out what the score is.</p>
+
+<h3>14. <a href="https://urivalet.com/">Url Valet</a></h3>
+
+<p>Check out the server header of any url with url valet's handy tool. Get an in-depth report on the components that make up the page and spot anything that's wrong before it becomes a problem or discover where a broken page is going wrong.</p>
+
+
+<h3>15. <a href="http://seocheck.io/">SEO Checklist</a></h3>
+
+<p>Does what it says on the tin. SEO Checklist is a checklist (you don't say!) that you can manually go through to make sure you're perfectly optimising your webpage for SEO. The box-tickers out there will love this one.</p>
+
+
+<h3>16. <a href="https://www.crawlmonster.com/">CrawlMonster</a></h3>
+
+<p>CrawlMonster is a fantastic, in-depth analytics tool which offers a free site audit of some high-level SEO concerns. You'll have to subscribe to get access to the more fancy features, but it's worth whacking your url in to see what CrawlMonster spits out.</p>
+
+<h3>17. <a href="http://www.siteliner.com/">Siteliner</a></h3>
+
+<p>Siteliner's audit tool has a simple interface and a useful report which includes duplicate content checks. Seeing the percentage split of your content as unique, common and duplicate is personal favourite of the SEOniverse.</p>
+
+
+<!-- KEYWORD RESEARCH AND RANKING -->
+
+<a name="keyword-research"></a>
+
+<h2>Keyword Research and Ranking</h2>
+
+<h3>18. <a href="http://www.keyword.io/">Keyword.io</a></h3>
+
+<p>Keyword.io is another precious free keyword research tool in a world where keyword research is becoming increasingly expensive. It won't give you search volume but it may well throw up some long-tail keywords you previously missed.</p>
+
+
+<h3>19. <a href="https://www.wordstream.com/keywords">Wordstream</a></h3>
+
+<p>Wordstream is a reliable keyword research tool with a fantastic database of keywords to help you target the right campaigns for your industry or niche. The free tool is limited but it does give you search volume and a few keywords that may help you put together a more robust strategy.</p>
+
+<h3>20. <a href="http://www.wordle.net/">Wordle</a></h3>
+
+<p>Are your keywords prominent enough in your text? Pop the text into Wordle to create a wordcloud to get to the true prominence of your target keywords. Just make sure your not stuffing?</p>
+
+<h3>21. <a href="https://visuwords.com/">Visuwords</a></h3>
+
+<p>Visuwords' visual dictionary is a fun tool to add an extra dimension to your keyword research. It's a great way to find related keywords for on-page optimisation too.</p>
+
+<h3>22. <a href="http://fatjoe.co/fat-rank/">FatRank</a></h3>
+
+<p>FatRank from FatJoe is a nifty tool for quickly checking keyword ranking of the page that your on. It's not the best for a full keyword analysis but is a neat little tool to have at your disposal.</p>
+
+
+<h3>23. <a href="https://serps.com/tools/rank-checker"/>SERPs Rank Checker</a></h3>
+
+<p>This rank checker from SERPs is a great way to check out the how the ranking of your web pages ranks for particular keywords in different locations. The loading bar is also mildly amusing.</p>
+
+
+<h3>24. <a href="https://ubersuggest.io/">Ubersuggest</a></h3>
+
+<p>Ubersuggest has become a favourite of SEOs everywhere for its robust tool that throws up a number of keywords and word combinations that other keyword research tools may have missed. Ubersuggest has become a staple tool for the research process for many - the SEOniverse included!</p>
+
+
+<h3>25. <a href="https://kwfinder.com/">KWFinder</a></h3>
+
+<p>KWFinder is a fantastic tool for finding those longtail keywords that you may well have missed earlier in your research. See competitors ranking for the keyword, difficulty in ranking for it yourself and much more in a highly detailed, and free, report. There is a limit to the amount of research you can do before registering, but the usefulness of the tool makes it well worth it.</p>
+
+
+<h3>26. <a href="https://k-meta.com/">K-meta Keyword Research Tool</a></h3>
+
+<p>K-meta's sales-focused keyword research tool gives great insight into competitors. See the top ten results in Google right there and then and get an idea of search trend for semantic keywords as well as your own target keyword. Another brilliant, free keyword research tool for you to use. </p>
+
+
+<h3>27. <a href="https://www.woorank.com/">WooRank</a></h3>
+
+<p>WooRank is a handy SEO auditor that gives detailed insight into how webpages are optimised and how they can be improved. WooRank also matches your audit up with pros you can step in and help you get your website firing on all cylinders.</p>
+
+
+<h3>28. <a href="http://codebeautify.org/serp-checker">Code Beautify Serp Checker</a></h3>
+
+<p>Manually check your rank for a certain keyword from servers around the world with Code Beautify's Serp Checker. B-E-A-utiful!</p>
+
+
+<!-- WEBSITE ANALYTICS-->
+
+<a name="website-analytics"></a>
+
+<h2>Website Analytics</h2>
+
+
+<h3>29. <a href="https://analytics.google.com/">Google Analytics</a></h3>
+
+<p>Google analytics is the go-to free analytics programme for most webmasters, digital marketers and pretty much anyone who works with a website. It's quite difficult to get to grips with, due to it's immense functionality, and even more difficult to master. However, with Google analytics you're more than likely to be able to accurately track the data that you want about how your audience are interacting with your website.</p>
+
+
+<h3>30. <a href="https://piwik.org/">Piwik</a></h3>
+
+<p>Piwik's  analytics tool is a fantastic free alternative to Google Analytics. The dashboard is simple, with keywords given rare prominence, and the mobile app means you can take your website's data with you when you're on the go.</p>
+
+
+<!-- OUTREACH -->
+
+<a name="outreach"></a>
+
+<h2>Outreach</h2>
+
+<h3>31. <a href="http://buzzsumo.com/">BuzzSumo</a></h3>
+
+<p>Looking for influencers to promote your quality content? BuzzSumo will help you get this list together with it's list of the most popular names in your selected industries. BuzzSumo is also great for finding what content is popular on social media for certain keyword groups so you can attempt emulate the success with similar content - or maybe even surpass it, who knows!?</p>
+
+<h3>32. <a href="http://www.talkwalker.com/en/free-social-media-monitoring-analytics-tools/">Talkwalker</a></h3>
+
+<p>Social Media analysis software, Talkwalker, has created a couple of excellent free tools that enable you to track your social media campaigns free of charge. Track brand mentions over the last week and get instant updates on current campaigns.</p>
+
+
+<h3>33. <a href="http://www.sharedcount.com/">SharedCount</a></h3>
+
+<p>See how your outreach is going on social media with SharedCount. Simply enter any url and SharedCount will let you know how many times it's been shared across the major social media channels.</p>
+
+<h3>34. <a href="">Followerwonk</a></h3>
+
+<p>Followerwonk is a great tool for outreach with a powerful free version as well as a paid for version on offer. Find out if you're targeting the right people with authority scores applied to Twitter users based on more than just their followers. Sort the wheat from the chaff with ease and get your website's content out there via the most powerful channels.</p>
+
+
+
+<!-- PAGE SPEED OPTIMISING -->
+
+<a name="page-speed"></a>
+
+<h2>Page Speed Optimising</h2>
+
+<h3>35. <a href="https://tinypng.com/">Tiny PNG</a></h3>
+
+<p>Compress your images for a faster page load time with Tiny PNG. Tiny PNG enables you reduce PNG image file sizes to keep transparency without losing too much quality.</p>
+
+
+<h3>36. <a href="https://compressor.io/">Compressor.io</a></h3>
+
+<p>Compressor.io offers an impressive file reduction across 4 different file types. Two different compression types enable you to prioritise quality over size or vice-versa.</p>
+
+<h3>37. <a href="http://jpeg-optimizer.com/">JPEG Optimizer</a></h3>
+
+<p>Looking to reduce the size of a JPEG? JPEG Optimizer will do just that. Just upload the JPEG into the tool and the magic will happen in the background - voila!</p>
+
+<h3>38. <a href="http://optimizilla.com/">Optimizilla</a></h3>
+
+<p>Optimizilla's impressive algorithms shrink JPEGs and PNGs with minimal loss in quality. With a simple interface and great results it's certainly worth a try.</p>
+
+
+<h3>39. <a href="http://www.webpagetest.org/">Web Page Test</a></h3>
+
+<p>Test the speed of your web pages from different location with Web Page Test. Simply put in your url and get back a detailed performance review with ideas on how you can improve.</p>
+
+<h3>40. <a href="GT Metrix">GT Metrix</a></h3>
+
+<p>Analyse you website's page speed with GT Metrix's test servers. Get a full report card with ideas on what you can improve to make your web pages load faster.</p>
+
+<h3>41. <a href="https://developers.google.com/speed/pagespeed/insights/">Google Developers Page Speed Insights</a></h3>
+
+<p>This is a must-use tool for SEOs when checking page speed as it's Google telling you in great detail how it loads your page and how you can improve it. Get an idea of the difference between desktop and mobile and receive great advice on how to get faster straight from the horses mouth.</p>
+
+<h3>42. <a href="http://tools.pingdom.com/fpt/">Pingdom</a></h3>
+
+<p>Check website page speed and DNS health with Pingdom. Just like Web Page Test, you can check load times from a number of servers from around the world - handy for those tricky international campaigns.</p>
+
+<h3>43. <a href="http://www.webpagetest.org/">WebPageTest</a></h3>
+
+<p>A simple tool to check response times from servers based around the globe. Another fantastic tool for sorting out your website's speed and get it running faster than Mo Farah.</p>
+
+
+
+<!-- PENALTY CHECKING -->
+
+<a name="penalty-checking"></a>
+
+<h2>Penalty Checking</h2>
+
+<h3>44. <a href="https://fruition.net/google-penalty-checker-tool/">Fruition</a></h3>
+
+<p>If you're scratching your head wondering why your site's suddenly dropped rankings or user visits, it's certainly worth checking if you've been penalised by Google with this handy tool from Fruition. There is a paid for version, but the freebie will give you some clues.</p>
+
+<h3>45. <a href="http://mxtoolbox.com/blacklists.aspx">MX Toolbox</a></h3>
+
+<p>Look up a sites DNS records, including information if your domain appears on any email blacklists. Very handy if your struggling to shake off a spam penalty.</p>
+
+
+<h3>46. <a href="http://feinternational.com/website-penalty-indicator/">Website Penalty Indicator</a></h3>
+
+<p>Sudden drop in rankings making you worried about Google penalties? Pop your url into this handy penalty checker from FE International and you'll soon find out what's up.</p>
+
+
+<!-- METADATA OPTIMISING -->
+
+<a name="metadata-optimising"></a>
+
+<h2>Metadata Optimising</h2>
+
+<h3>47. <a href="https://totheweb.com/learning_center/tool-test-google-title-meta-description-lengths/">To the Web Meta Description Checker</a></h3>
+
+<p>If your meta descriptions are too long then they may be truncated in the search results page; too short and they might be replaced. Make sure they're the right length with this tool from To The Web.</p>
+
+<h3>48. <a href="https://chrome.google.com/webstore/detail/serp-preview-tool/effdkahkjdmlholdbalhcdpgfiigdfbj">SERP Preview Tool</a></h3>
+
+<p>Want to know how a particular page will appear in the SERPs without having to navigate away? SERP Preview Tool ia a Chrome plugin from Dejan SEO that will let you do just that.</p>
+
+<h3>49. <a href="https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef">Meta SEO inspector</a></h3>
+
+<p>Meta SEO inspector is an incredibly useful Chrome plugin to give you all the meta information about the page that your on without having to view the source file or navigate away from the page.</p>
+
+
+<h3>50. <a href="http://www.seomofo.com/snippet-optimizer">SEOmofo Snippet Optimizer</a></h3>
+
+<p>Want to take a look at your meta title's and descriptions before publishing them to the web? SEOmofo's simple tool lets you do just that - get them right before going live.</p>
+
+
+
+<!-- OTHER -->
+
+<a name="other"></a>
+
+<h2>Other</h2>
+
+<h3>51. <a href="https://algoroo.com/">Algoroo</a></h3>
+
+
+<p>When your website's rankings start climbing up and down like a drunken window cleaner, Algoroo is a great place to turn to see if Google's algorithm's to blame. Monitoring 17,000 keywords to 100 positions looking for fluctuations you can check if unusual behaviour is at a time of 'high roo' – lot's of unusual activity that likely hints at an algorithm update – or 'low roo' – a normal day. The ability to monitor fluctuations by industry gives greater insight into the nature of any updates.</p>
+
+<h3>52. <a href="http://www.googletrends.com">Google Trends</a></h3>
+
+<p>Check out the trends in what people are searching for from around the web on Google. Google trends can be great for informing your SEO strategy, for example, If one of your primary target keywords is declining rapidly and a secondary keyword is rapidly growing, you might want to have a rethink.</p>
+
+<h3>53. <a href="https://www.google.co.uk/search?q=the+seoniverse&oq=the+seoniverse&aqs=chrome..69i57j69i60l2j0l3.5646j0j4&sourceid=chrome&ie=UTF-8">Google Search Results</a></h3>
+
+<p>An often underrated and always underused tool is a Google search itself. Simply search for your target keyword and watch what happens: what results appear on the page, what are the suggested search terms and can you create something better than all these results combined? You can gain a lot of perspective by finding out what other options Google will present to users when they search for your target keywords.</p>
+
+<h3>54. <a href="https://cards-dev.twitter.com/validator">Twitter card validator</a></h3>
+
+<p>All the best SEO campaigns are supported by a stellar social media strategy. Avoid seeming like an amateur by making sure the images on your Twitter posts work with the Twitter Card Validator.</p>
+
+
+<h3>55. <a href="http://image.online-convert.com/">Online Convert</a></h3>
+
+<p>There will always be a time in anyone who works online's life when they need to convert an image to another format. Online Convert has one of the widest ranges of file formats to choose from so should see you right.</p>
+
+<h3>56. <a href="https://www.copyscape.com/">Copyscape</a></h3>
+
+<p>Worried that your site's content is being duplicated by evil spammers? Simply type the url in question into Copyscape and see whether or not that page has an identical twin living elsewhere.</p>
+
+
+<h3>57. <a href="https://www.google.co.uk/alerts">Google alerts</a></h3>
+
+<p>Want to see what new content your competitors are producing when they produce it? Looking to get the lowdown on a topic as news comes out? Set up a Google Alerts account and follow the websites and keywords you wish to follow and you'll have a clairvoyant-like insight into what's going on.</p>
+
+
+<h3>58. <a href="https://hallanalysis.com/json-ld-generator/">Hall Analysis JSON-LD Generator</a></h3>
+
+<p>With Schema markup becoming increasingly important to your web pages performance in the SERPs it's about time you got a tool to help you out. This simple JSON-LD generator from Hall Analysis will do the trick!</p>
+
+
+<h3>59. <a href="http://www.browseo.net/">Browseo</a></h3>
+
+
+<p>Take a peek behind the curtain with Browseo. Enter a url and Browseo renders the page to show you how a search bot sees it. Very useful for making sure that your pages are making sense to the little bots.</p>
+
+<h3>60. <a href="https://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/">Internet Marketing Ninjas Google Sitemap Generator and Site Crawler</a></h3>
+
+<p>As the name suggests, Internet Marketing Ninja's sitemap generator is fantastic for generating sitemaps, but it goes way beyond that. Find broken links, dodgy redirects, HTTP error codes and pretty much everything you'd expect from a crawler, and all for free!</p>
+
+
+<h3>61. <a href="http://www.yellowpipe.com/yis/tools/robots.txt/">Yellowpipe Robots.txt Generator</a></h3>
+
+<p>Looking for assistance in creating a robots.txt file that meets with both your and Googles expectations? Yellowpipe's handy, easy-to-use robots.txt generator is the tool for you.</p>
+
+<h3>62. <a href="https://search.google.com/structured-data/testing-tool">Structured Data Testing Tool</a></h3>
+
+<p>For SEO's who aren't native to web development and are a bit shaky with coding, implementing schema markup to your pages can be a bit stressful. Use Google's own structured data testing tool to do a thorough review. Simply enter the code or the url of the page in question and if you get a green light, go for it!</p>
+
+
+<h3>63. <a href="https://word2cleanhtml.com/">Word2cleanhtml</a></h3>
+
+<p>Struggle with HTML? Simply copy and paste your word document into this tool and it will be magically transformed into clean HMTL.</p>
+
+
+<h3>64. <a href="http://www.linkstant.com/">Linkstant</a></h3>
+
+<p>Gaining links is exciting, but it's often frustrating to figure out when and where your links are coming from. Keep close tabs on people linking to your site with alerts from Linkstant.</p>
+
+<h3>65. <a href="http://www.webconfs.com/similar-page-checker.php">Webconfs Similar Page Checker</a></h3>
+
+<p>Duplicate content is an issue that never seems to disappear. Enter two urls into this checker tool and you'll find out just how similar these pages are as a percentage. You won't find out how they're similar and what you should change but it's a great starting point to sorting duplicate content problems.</p>
+
+<h3>66. <a href="https://www.tineye.com/">TinEye</a></h3>
+
+<p>Ever had an image and wondered where on earth you got it from? Or worse - been paranoid about others plagiarising your images? Tin Eye's reverse image search is an amazing "reverse image search" tool that allows you to upload an image and find where it's published across the web.</p>
+
+<h3>67. <a href="http://archive.org/web/">The Wayback Machine</a></h3>
+
+<p>The Wayback Machine is a massive archive of a massive part of the internet. It's surprising how often you want to check what a particular webpage looked like at a certain point in the past and thanks to the Wayback Machine, you can do just that!</p>
+
+
+<h3>68. <a href="">Built With</a></h3>
+
+<p>Want to find out how a competitor's website was put together? Built wth returns a technology profile for any website detailing what server, host and other components hold that domain together.</p>
+
+
+<h3>69. <a href="http://quickurlopener.com/">Quick URL Opener</a></h3>
+
+<p>Got a bunch of urls and not enough time or patience to go through them individually. Paste them all into this handy tool and open them all instantly in different tabs. Sorted.</p>
+
+<h3>70. <a href="https://www.hivedigital.com/free-tools/duplicate-content/">Hive Digital Duplicate Content Checker</a></h3>
+
+<p>Run your domain through Hive Digital's duplicate content tool to see if there are any thieves out there passing off your site as their site. What you do next is up to you.</p>
+
+<h3>71. <a href="http://www.labsmedia.com/clickheat/index">DugWood ClickHeat</a></h3>
+
+<p>Heat maps are a brilliant starting point for optimisation and a must have tool for anyone who is serious about their UX optimisation. However, a lot of the tools are pretty expensive, or should I say <em>were</em> pretty expensive? Clickheat is a free, opensource heat map tool that is well worth a whirl.</p>
+
+<h3>72. <a href="http://www.blacklistalert.org/">Blacklist Alert</a></h3>
+
+<p>Worried your site's been blacklisted? Pop the domain name or IP address in blacklistalert.org and check whether you've got a tangle to untangle, hopefully you'll be OK. Good luck!</p>
+
+<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+
+</div>
+
+<div class="side-bar">
+<h3>More from the blog</h3>
+
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+
+</div>
+</div>
+
+</body>
+
+</html>

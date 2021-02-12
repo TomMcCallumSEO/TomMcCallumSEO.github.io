@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>The right way to use alt tags for SEO in 2018 | Blog | The SEOniverse</title>
+  
+  <meta name="description" content="Website optimisation services for the Edinburgh Area. SEO, content strategy, copywriting, social media and PPC. Get in touch for a free consultation.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>Do the decent thing and stop abusing alt tags for SEO gain</h1>
+
+<p><strong>Breaking news: we've been thinking about image alt tags all wrong for years!</strong></p>
+
+<p>One of the primary on page SEO tasks, one of the first you learn as a junior SEO, one of the "quick wins" that SEOs use to satisfy the demands of their deadline-obsessed managers is damaging your users' experience.</p>
+
+  <p>Alt tags are not there to be optimised, they're there for a very different and more important reason than your website's SEO gain.</p>
+
+<h2>How to SEO an alt tag</h2>
+
+<p>Also known as alt text or alt attributes, image alt tags offers a more detailed description of an image than the file name. While the file name might include a relevant keyword "spaceship.png" search engines wouldn't be as likely to show this image in results for such a competitive term. Adding an image alt tag to give a more in-depth description, such as "Apollo 11 reentering the earths atmosphere", enables the image to be targeted at long tail searches, aka "gold"! You can see why SEOs see alt tags as an opportunity for a quick win.
+
+<p>When I started as an SEO I was delighted to find a secret place to jam my keywords so the search engines could:</p>
+
+<ul>
+<li>Get more relevancy signals</li>
+<li>Get images listed in image search</li>
+<li>Get more  keywords on the page without worrying about density or stuffing</li>
+</ul>
+
+<p>The on page optimisation landscape has changed a lot from these keyword obsessed days, but on many websites the alt tag is still a place where keywords must be placed. It's no surprise when Google still recommends this as a valid SEO method – how often does that happen? Here's <a href="https://support.google.com/webmasters/answer/114016?hl=en">what Google says in its recommendations about alt tagging</a>:</p>
+
+  <p><em>"Not so good:</em></p>
+
+  <p><em>&lt;img src="puppy.jpg" alt=""&gt;</em></p>
+
+  <p><em>Better:</em></p>
+
+  <p><em>&lt;img src="puppy.jpg" alt="puppy"&gt;</em></p>
+
+  <p><em>Best:</em></p>
+
+  <p><em>&lt;img src="puppy.jpg" alt="Dalmatian puppy playing fetch"&gt;</em></p>
+
+  <p><em>To be avoided:</em></p>
+
+
+  <p><em>&lt;img src="puppy.jpg" alt="puppy dog baby dog pup pups puppies doggies pups litter puppies dog retriever labrador wolfhound setter pointer puppy jack russel terrier puppies dog food cheap dogfood puppy food"&gt;</em></p>
+
+   <p><em>Filling alt attributes with keywords ("keyword stuffing") results in a negative user experience, and may cause your site to be perceived as spam. Instead, focus on creating useful, information-rich content that uses keywords appropriately and in context. We recommend testing your content by using a text-only browser such as Lynx."</em></p>
+
+  <p>Google rightly calls out keyword stuffing, however, they also call out leaving alt tags empty as "not so good". This is at odds with pro accessibility organisations.</p>
+
+  <h2>Alt tags for accessibility</h2>
+
+    <p>For visually impaired users who use a screen reader to access pages on the internet, having every single image's alt text read out in such great detail is incredibly tiresome. More often than not the description is irrelevant to the understanding of the content. In the example by Google above, when on a page about dalmatian dogs, is it really necessary for the screen reader to announce "Dalmatian puppy playing fetch" when it hits that image?</p>
+
+  <p>While following Google's guidelines for alt tags will help Google understand your website's content better, maybe even give a slight relevancy boost, it's at loggerheads with <a href="https://www.theseoniverse.com/glossary/accessibility">website accessibility</a> guidelines. Here's <a href="http://www.rnib.org.uk/accessibility-guidelines-alt-text-what-you-need-know">what the Royal National Institute for the Blind (RNIB) have to say</a> about the issue:</p>
+
+    <p><em>"If the image contains valuable information such as numerical data on a graph, contextual information, or conveys meaning that would be beneficial to the understanding of the page for a visitor, then it's best practice to use ALT text.</em></p>
+
+    <p><em>"However, if the image is purely decorative and serves no other purpose than to be aesthetically pleasing, then avoid using ALT text altogether."</em></p>
+
+<p>Avoiding alt text for meaningless images is the recommendation here, the same recommendation that Google branded "not so good".</p>
+
+    <h2>Rethinking image alt tags</h2>
+
+    <p>Before you add your next alt tag, consider if the image actually adds anything to the understanding of the page. If not, do the right thing and stop harming the accessibility of your web pages for SEO gain, even if Google says it's OK.</p>
+
+<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>More from the blog</h3>
+
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+<!--page content ends -->
+<!-- footer content-->
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+</div>
+</div>
+</body>
+</html>

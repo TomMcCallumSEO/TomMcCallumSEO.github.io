@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>The Importance of Backlinks for Small Business Websites | The SEOniverse</title>
+
+  <meta name="description" content="Learn why backlinks are one of the most important things you need to get your website ranking in Google search.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/blog/backlinks-importance-for-business-websites">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>Why Hyperlinks are Crucial for Your Business’s Website</h1>
+
+<img src="https://www.theseoniverse.com/images/link.jpg" />
+
+<p>It's no secret that hyperlinks are an important factor for ranking in search engine results - Google has even admitted that <a href="https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882">links are one of the top three most important factors</a> the algorithm looks at when considering where to rank pages for certain keywords. When another trusted website links to a page on your website it’s a strong signal that the content on that page is good quality. The more trusted <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a> coming from trusted pages, the more able that page will be to rank.</p>
+
+<p>Links pass trust signals and if one page has more perceived trust than another, then it’s more likely to rank above it when the two pages compete for similar search queries.</p>
+
+<h2>Backlinking from bad sites and search engine penalties</h2>
+
+<p>On the other hand, if the page has a lot of links coming in from domains that the search engines don’t trust, like spam domains and private blog networks, this can adversely affect your website’s ability to rank. You may even be penalised and thrown out of the search results! If you suspect that spam websites are linking to your content you might want to think about disavowing those links in Google Webmaster Tools to avoid this happening. Find out more about disavowing links in this guide.</p>
+
+<h2>How to attract links to your website</h2>
+
+<h3>Content</h3>
+
+<p>Creating outstanding, unique content is one of the best ways to get people to link to you. Gaining links often requires a lot of work after the content is created - sloppy marketers often spend too little time promoting their content compared to the amount of time creating it. Saying that, creating outstanding content certainly takes a lot of time.</p>
+
+<h3>Link building</h3>
+
+<p>The process of marketing content with the aim of generating backlinks is called link building and it's one of the key skills of any SEO. There are many different link building tactics out there, including finding websites with broken links and getting the links to point to you and writing guest articles on third-party websites with backlinks to your site.</p>
+
+<h2>The Folly of Paid links</h2>
+
+<p>Paid links are simply links that you pay for. While buying 1,000 low-quality links might have been able to fool the search engines in the past, it doesn’t really work now. You’re more likely to end up with a penalty than improved rankings.</p>
+
+<h2>Local SEO and backlinks</h2>
+
+<p>While backlinks are important for every websites, for local business owners it might be more worthwhile to focus n a different strategy. Factors such as reviews and local citations seem to be weighted more than number and quality of backlinks for local search. Find out more in our <a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">guide to local search for small businesses in Edinburgh</a>.
+
+<h2>Linking out to other websites</h2>
+
+<p>Don’t forget to link out from your website to others. If you’re expecting and even encouraging people to link to your site it’s only right that you share the love by linking out to relevant web pages from your own domain.</p>
+
+<h2>Anchor text and backlinking</h2>
+
+<p>It’s important to pay attention to the anchor text used to link back to your website. <a href="https://www.theseoniverse.com/glossary/anchor-text">Anchor text</a> is simply the text used to link and what this is can give the search engines a good signal as to what the page is about. For example, if you have a guide on SEO, it’s better to attach the hyperlink to that than to another phrase such as “click here”. That way, the search engine has a clear indication that page at the end of the link is an SEO guide, whereas with “click here” or “read on” doesn’t give much of an indication.</p>
+
+<h2>Analysing your website’s backlink profile</h2>
+
+<p>Most good backlink analysis tools, for example <a href="https://ahrefs.com/">Ahrefs</a> or <a href="https://majestic.com/">Majestic SEO</a>, can tell you  a number of interesting things about the backlinks to your website. Here are a few of the most important things to keep an eye out for:</p>
+
+<h2>Who’s linking to you?</h2>
+
+<p>You don’t only want to look at the number of links you have, but the number of domains that are linking. It’s far better to have 100 links from 80 domains than it is to have 1,000,000 links from one domain - quality over quantity!</p>
+
+<h2>Who’s linking to your competitors?</h2>
+
+<p>You want to keep your link profile as good as, if not better than your competitors. If a competitor has far more links from more authoritative domains then you’ll find it hard to outrank them.</p>
+
+<h2>How trustworthy are the links to your domain?</h2>
+
+<p>Another important thing to look at is how trusted the domains are that are linking to you. It’s all very well getting a lot of domains linking to you, but are these domains increasing the trust of your website or are they from dubious sources? Majestic’s Trust Score metric is particularly valuable for analysing this factor.</p>
+
+<p>If you’re worried about the backlink profile of your website you should get a trusted SEO company to take a look. Good, honest SEO companies will not build any old links but will look at how the links that they obtain can help your website to rank in search results, bringing you more traffic for the keywords which are valuable to your business strategy.</p>
+
+<h2>Disavowing Bad Links</h2>
+
+<p>If you’re certain that links are from spammy sources, for example, if you have 7,000 links from strange urls all belonging to the same domain, then you can use <a href="https://support.google.com/webmasters/answer/2648487?hl=en">Google’s disavow tool</a> to let the search engine know that you don’t want anything to do with the domain.</p>
+
+<p>Building links and maintaining a competitive backlink profile can be a time-consuming process and it can take a bit of a knack to spot a bad link from a valuable one. If you’re in doubt, as with all things to do with your website and SEO, you should look for an expert to help you out.</p>
+
+<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+
+</div>
+
+<div class="side-bar">
+<h3>More from the blog</h3>
+
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+
+</div>
+</div>
+
+</body>
+
+</html>
