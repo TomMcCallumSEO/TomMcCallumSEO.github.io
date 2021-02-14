@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/ecommerce">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/ecommerce">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -118,13 +118,13 @@ window.cookieconsent.initialise({
 
 <p>The general rule is to group everything logically into categories and to keep the structure as simple and logical as possible. Implement good use of breadcrumbs and allow users to search and sort based on a number of options such as colour, price, size, etc. These will change depending on what products are on offer.</p>
 
-<p>A great example of an ecommerce site with brilliant site structure is the <a href="http://www.ikea.com/gb/en/">IKEA website</a>. The products are grouped in a way that makes it easy to hone in on the product that you want. Navigation bars and <a href="https://www.theseoniverse.com/glossary/breadcrumbs">breadcrumb</a> trails make it easy to work your way back up the hierarchy.</p>
+<p>A great example of an ecommerce site with brilliant site structure is the <a href="http://www.ikea.com/gb/en/">IKEA website</a>. The products are grouped in a way that makes it easy to hone in on the product that you want. Navigation bars and <a href="https://tommccallumseo.github.io/glossary/breadcrumbs">breadcrumb</a> trails make it easy to work your way back up the hierarchy.</p>
 
 <h4>Product descriptions</h4>
 
 <p>Product descriptions are also important to let the users and search engines know more about exactly what it is you are selling on the page. A lack of any description or a thin description lacking in keywords will make it impossible for the page to come anywhere near ranking on page one.</p>
 
-<p>Be careful of<a href="https://www.theseoniverse.com/glossary/duplicate-content"> duplicate content</a> and don't to add the same or similar descriptions on different pages. It's easy to fall into the copy and paste trap with ecommerce sites but remember that the search engines will reward unique content. First and foremost, make sure the information is easy for the user to take in and provides them with all the information they need to decide whether or not to make a purchase.</p>
+<p>Be careful of<a href="https://tommccallumseo.github.io/glossary/duplicate-content"> duplicate content</a> and don't to add the same or similar descriptions on different pages. It's easy to fall into the copy and paste trap with ecommerce sites but remember that the search engines will reward unique content. First and foremost, make sure the information is easy for the user to take in and provides them with all the information they need to decide whether or not to make a purchase.</p>
 
 <p>If a manufacturer provides you with a product description, don't use it as it it. It's likely that the same descriptions will be on pages all over the internet and as a result, search engines will be unlikely to consider your page for their index.</p>
 
@@ -139,17 +139,17 @@ window.cookieconsent.initialise({
 <p>For more on this subject check Kissmetrics' <a href="https://blog.kissmetrics.com/seo-for-ecommerce-websites/">Ultimate Guide to SEO for E-commerce Websites</a>.</p>
 
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -162,10 +162,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

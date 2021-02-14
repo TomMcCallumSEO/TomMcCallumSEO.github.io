@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/comment-spam">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/comment-spam">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -101,13 +101,13 @@ window.cookieconsent.initialise({
 
 <h1>What is comment spam?</h1>
 
-<p class="glossary-intro">Comment spam refers to comments added to articles or forums online with the sole intention of adding a <a href="https://www.theseoniverse.com/glossary/backlinks">backlink</a> to a particular website. Comment spam, or forum spam, is commonplace online and is a nuisance to all website owners.</p>
+<p class="glossary-intro">Comment spam refers to comments added to articles or forums online with the sole intention of adding a <a href="https://tommccallumseo.github.io/glossary/backlinks">backlink</a> to a particular website. Comment spam, or forum spam, is commonplace online and is a nuisance to all website owners.</p>
 
 <h2>How to stop comment spam</h2>
 
 <h3>nofollow</h3>
 
-<p>Most blogs and forums will assign nofollow commands to the comment sections of their blogs or forums. This way, if comment spam gets through, at least your site won't pass any <a href="https://www.theseoniverse.com/glossary/authority">authority</a> on to it. However, it's best to banish comment spam from your site altogether as any users reading the comments will likely be put off adding anything relevant to the discussion if it's full of spam.</p>
+<p>Most blogs and forums will assign nofollow commands to the comment sections of their blogs or forums. This way, if comment spam gets through, at least your site won't pass any <a href="https://tommccallumseo.github.io/glossary/authority">authority</a> on to it. However, it's best to banish comment spam from your site altogether as any users reading the comments will likely be put off adding anything relevant to the discussion if it's full of spam.</p>
 
 <h3>Comment management systems</h3>
 
@@ -118,19 +118,19 @@ window.cookieconsent.initialise({
 
 <h2>Forum spam bots</h2>
 
-<p>Some <a href="https://www.theseoniverse.com/glossary/black-hat-seo">black hat</a> link builders use spam <a href="https://www.theseoniverse.com/glossary/bot">bots</a> to post meaningless comment spam to forums and comments across the web. This shady technique is capable of delivering thousands of backlinks to your site in a matter of hours - but it's also likely to do more harm than good. Generating such a large number of links quickly will be likely to send a danger signal to the search engines. If an SEO service ever offers to get you thousands of backlinks in this way, kindly decline (and look for someone else to do your digital marketing).</p>
+<p>Some <a href="https://tommccallumseo.github.io/glossary/black-hat-seo">black hat</a> link builders use spam <a href="https://tommccallumseo.github.io/glossary/bot">bots</a> to post meaningless comment spam to forums and comments across the web. This shady technique is capable of delivering thousands of backlinks to your site in a matter of hours - but it's also likely to do more harm than good. Generating such a large number of links quickly will be likely to send a danger signal to the search engines. If an SEO service ever offers to get you thousands of backlinks in this way, kindly decline (and look for someone else to do your digital marketing).</p>
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -143,10 +143,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

@@ -9,11 +9,11 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/blog/backlinks-importance-for-business-websites">
+  <link rel="canonical" href="https://tommccallumseo.github.io/blog/backlinks-importance-for-business-websites">
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
 
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -62,12 +62,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -82,10 +82,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -102,9 +102,9 @@ window.cookieconsent.initialise({
 
 <h1>Why Hyperlinks are Crucial for Your Business’s Website</h1>
 
-<img src="https://www.theseoniverse.com/images/link.jpg" />
+<img src="https://tommccallumseo.github.io/images/link.jpg" />
 
-<p>It's no secret that hyperlinks are an important factor for ranking in search engine results - Google has even admitted that <a href="https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882">links are one of the top three most important factors</a> the algorithm looks at when considering where to rank pages for certain keywords. When another trusted website links to a page on your website it’s a strong signal that the content on that page is good quality. The more trusted <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a> coming from trusted pages, the more able that page will be to rank.</p>
+<p>It's no secret that hyperlinks are an important factor for ranking in search engine results - Google has even admitted that <a href="https://searchengineland.com/now-know-googles-top-three-search-ranking-factors-245882">links are one of the top three most important factors</a> the algorithm looks at when considering where to rank pages for certain keywords. When another trusted website links to a page on your website it’s a strong signal that the content on that page is good quality. The more trusted <a href="https://tommccallumseo.github.io/glossary/backlinks">backlinks</a> coming from trusted pages, the more able that page will be to rank.</p>
 
 <p>Links pass trust signals and if one page has more perceived trust than another, then it’s more likely to rank above it when the two pages compete for similar search queries.</p>
 
@@ -128,7 +128,7 @@ window.cookieconsent.initialise({
 
 <h2>Local SEO and backlinks</h2>
 
-<p>While backlinks are important for every websites, for local business owners it might be more worthwhile to focus n a different strategy. Factors such as reviews and local citations seem to be weighted more than number and quality of backlinks for local search. Find out more in our <a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">guide to local search for small businesses in Edinburgh</a>.
+<p>While backlinks are important for every websites, for local business owners it might be more worthwhile to focus n a different strategy. Factors such as reviews and local citations seem to be weighted more than number and quality of backlinks for local search. Find out more in our <a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">guide to local search for small businesses in Edinburgh</a>.
 
 <h2>Linking out to other websites</h2>
 
@@ -136,7 +136,7 @@ window.cookieconsent.initialise({
 
 <h2>Anchor text and backlinking</h2>
 
-<p>It’s important to pay attention to the anchor text used to link back to your website. <a href="https://www.theseoniverse.com/glossary/anchor-text">Anchor text</a> is simply the text used to link and what this is can give the search engines a good signal as to what the page is about. For example, if you have a guide on SEO, it’s better to attach the hyperlink to that than to another phrase such as “click here”. That way, the search engine has a clear indication that page at the end of the link is an SEO guide, whereas with “click here” or “read on” doesn’t give much of an indication.</p>
+<p>It’s important to pay attention to the anchor text used to link back to your website. <a href="https://tommccallumseo.github.io/glossary/anchor-text">Anchor text</a> is simply the text used to link and what this is can give the search engines a good signal as to what the page is about. For example, if you have a guide on SEO, it’s better to attach the hyperlink to that than to another phrase such as “click here”. That way, the search engine has a clear indication that page at the end of the link is an SEO guide, whereas with “click here” or “read on” doesn’t give much of an indication.</p>
 
 <h2>Analysing your website’s backlink profile</h2>
 
@@ -162,18 +162,18 @@ window.cookieconsent.initialise({
 
 <p>Building links and maintaining a competitive backlink profile can be a time-consuming process and it can take a bit of a knack to spot a bad link from a valuable one. If you’re in doubt, as with all things to do with your website and SEO, you should look for an expert to help you out.</p>
 
-<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/blog/">Back to the blog &rarr;</a></h2>
 
 </div>
 
 <div class="side-bar">
 <h3>More from the blog</h3>
 
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -186,9 +186,9 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
 
   </div>
   <div class="footer-content-right">

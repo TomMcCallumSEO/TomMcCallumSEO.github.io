@@ -9,11 +9,11 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">
+  <link rel="canonical" href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
 
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -61,12 +61,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -81,10 +81,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -146,7 +146,7 @@ window.cookieconsent.initialise({
 
     <p>For visually impaired users who use a screen reader to access pages on the internet, having every single image's alt text read out in such great detail is incredibly tiresome. More often than not the description is irrelevant to the understanding of the content. In the example by Google above, when on a page about dalmatian dogs, is it really necessary for the screen reader to announce "Dalmatian puppy playing fetch" when it hits that image?</p>
 
-  <p>While following Google's guidelines for alt tags will help Google understand your website's content better, maybe even give a slight relevancy boost, it's at loggerheads with <a href="https://www.theseoniverse.com/glossary/accessibility">website accessibility</a> guidelines. Here's <a href="http://www.rnib.org.uk/accessibility-guidelines-alt-text-what-you-need-know">what the Royal National Institute for the Blind (RNIB) have to say</a> about the issue:</p>
+  <p>While following Google's guidelines for alt tags will help Google understand your website's content better, maybe even give a slight relevancy boost, it's at loggerheads with <a href="https://tommccallumseo.github.io/glossary/accessibility">website accessibility</a> guidelines. Here's <a href="http://www.rnib.org.uk/accessibility-guidelines-alt-text-what-you-need-know">what the Royal National Institute for the Blind (RNIB) have to say</a> about the issue:</p>
 
     <p><em>"If the image contains valuable information such as numerical data on a graph, contextual information, or conveys meaning that would be beneficial to the understanding of the page for a visitor, then it's best practice to use ALT text.</em></p>
 
@@ -158,17 +158,17 @@ window.cookieconsent.initialise({
 
     <p>Before you add your next alt tag, consider if the image actually adds anything to the understanding of the page. If not, do the right thing and stop harming the accessibility of your web pages for SEO gain, even if Google says it's OK.</p>
 
-<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/blog/">Back to the blog &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>More from the blog</h3>
 
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -177,9 +177,9 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
 
   </div>
   <div class="footer-content-right">

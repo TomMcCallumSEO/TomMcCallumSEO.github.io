@@ -9,11 +9,11 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/blog/72-free-seo-tools">
+  <link rel="canonical" href="https://tommccallumseo.github.io/blog/72-free-seo-tools">
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
 
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -62,12 +62,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -82,10 +82,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -132,7 +132,7 @@ window.cookieconsent.initialise({
 <h3>4. <a href="https://www.removeem.com/anchor-text-ratios/">Removeem</a></h3>
 
 
-<p>There's a fine line between perfectly optimising your website and over-optimising. Find out if the search engines will look unfavourably on your <a href="https://www.theseoniverse.com/glossary/anchor-text">anchor text</a> with Removeem's handy tool.</p>
+<p>There's a fine line between perfectly optimising your website and over-optimising. Find out if the search engines will look unfavourably on your <a href="https://tommccallumseo.github.io/glossary/anchor-text">anchor text</a> with Removeem's handy tool.</p>
 
 
 <h3>5. <a href="http://www.hobo-web.co.uk/auditor/">Hobo Web Free SEO Audit</a></h3>
@@ -148,7 +148,7 @@ window.cookieconsent.initialise({
 <h3>7. <a href="https://moz.com/products/pro/seo-toolbar">MozBar</a></h3>
 
 
-<p>MozBar is a fantastic plugin for Chrome that gives you a great idea of the ranking power of every website you visit. Compare link metrics across pages, get an idea of page and <a href="https://www.theseoniverse.com/glossary/authority">domain authority</a>, find an highlight keywords on a particular page and more. MozBar is a great go-to tool for speedy page analysis.</p>
+<p>MozBar is a fantastic plugin for Chrome that gives you a great idea of the ranking power of every website you visit. Compare link metrics across pages, get an idea of page and <a href="https://tommccallumseo.github.io/glossary/authority">domain authority</a>, find an highlight keywords on a particular page and more. MozBar is a great go-to tool for speedy page analysis.</p>
 
 <h3>8. <a href="http://www.contentforest.com/seo-tools/image-alt-checker">Content Forest Alt Text Checker</a></h3>
 
@@ -498,18 +498,18 @@ window.cookieconsent.initialise({
 
 <p>Worried your site's been blacklisted? Pop the domain name or IP address in blacklistalert.org and check whether you've got a tangle to untangle, hopefully you'll be OK. Good luck!</p>
 
-<h2><a href="https://www.theseoniverse.com/blog/">Back to the blog &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/blog/">Back to the blog &rarr;</a></h2>
 
 </div>
 
 <div class="side-bar">
 <h3>More from the blog</h3>
 
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -522,9 +522,9 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
 
   </div>
   <div class="footer-content-right">

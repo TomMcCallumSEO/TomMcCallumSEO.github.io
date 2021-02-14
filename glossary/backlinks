@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/backlinks">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/backlinks">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -100,7 +100,7 @@ window.cookieconsent.initialise({
 
 <h1>What are backlinks?</h1>
 
-<p class="glossary-intro">A <dfn>backlink</dfn> is an incoming hyperlink from an external web page. Attracting backlinks is key SEO activity for improving a web page's ranking and boosting <a href="https://www.theseoniverse.com/glossary/authority">domain authority</a>.</p>
+<p class="glossary-intro">A <dfn>backlink</dfn> is an incoming hyperlink from an external web page. Attracting backlinks is key SEO activity for improving a web page's ranking and boosting <a href="https://tommccallumseo.github.io/glossary/authority">domain authority</a>.</p>
 
 <h2>Backlinks and Google juice</h2>
 
@@ -136,7 +136,7 @@ window.cookieconsent.initialise({
 
 <h2>Organic backlinks</h2>
 
-<p>Organic backlinks are links that happen naturally. In the eyes of the search engines, good content will automatically generate links. All experienced SEOs know that this "if you build it they will come" philosophy doesn't really work,  but when building links you should do so as holistically as possible. The search engines will look for signs that links are unnatural such as over-optimised <a href="https://www.theseoniverse.com/glossary/anchor-text/">anchor text</a>, links from multiple low authority sites and links coming from sites outside of your industry, so it's really not worth trying to sneak links by them.</p>
+<p>Organic backlinks are links that happen naturally. In the eyes of the search engines, good content will automatically generate links. All experienced SEOs know that this "if you build it they will come" philosophy doesn't really work,  but when building links you should do so as holistically as possible. The search engines will look for signs that links are unnatural such as over-optimised <a href="https://tommccallumseo.github.io/glossary/anchor-text/">anchor text</a>, links from multiple low authority sites and links coming from sites outside of your industry, so it's really not worth trying to sneak links by them.</p>
 
 <p>Never force people to link to you, let it happen naturally by bringing the content to peoples attention. Offer influencers in you topic area the content to judge for themselves – if it's as good as it should be they might want to link to it. Promote your content on social media channels – your followers will share it of it's useful enough.</p>
 
@@ -151,17 +151,17 @@ window.cookieconsent.initialise({
 <h2>Linking out</h2>
 
 <p>Don't be selfish! It's very nice to receive incoming links but it's important that you share the love by linking out to relevant web pages as well. In fact, although Google have stated that <a href="https://www.seroundtable.com/google-external-links-20951.html">external links don't improve your ranking</a>, some research suggests that <a href="http://www.rebootonline.com/blog/long-term-outgoing-link-experiment/">linking out appropriately to authoritative and relevant sources does have some impact</a> on ranking. That doesn't mean you should link out will-nilly to great sites. Only link out when you're sure that the user will get a greater understanding of your content from the external piece linked to.</p>
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -174,10 +174,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/bot">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/bot">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -104,7 +104,7 @@ window.cookieconsent.initialise({
 
 <h2>Bots for SEO</h2>
 
-<p>The bots that are dispatched by the major search engines crawl the internet feeding back information about  web pages for the search engines to hold in their index. The most common bots for SEOs to be concerned with are Google bot and <a href="https://www.theseoniverse.com/glossary/bingbot">Bingbot</a>.</p>
+<p>The bots that are dispatched by the major search engines crawl the internet feeding back information about  web pages for the search engines to hold in their index. The most common bots for SEOs to be concerned with are Google bot and <a href="https://tommccallumseo.github.io/glossary/bingbot">Bingbot</a>.</p>
 
 <p>Bots can validate hyperlinks and HTML code so they can send signals about poor quality pages and domains to the search engines. If your pages are found to be poor quality, the bots are less likely to come back and visit your domain making it less likely that all the relevant pages on your site will be indexed by the search engines and findable by users.</p>
 
@@ -120,21 +120,21 @@ window.cookieconsent.initialise({
 
 <p>In the index status report above, you can see that a new website typically takes a while to be crawled by bots and indexed.</p>
 
-<p><a href="https://www.theseoniverse.com/glossary/bing">Bing</a> also has crawl stats and index status reports on their own Webmaster Tools service. To get the clearest picture of how your webpages are being handled by the bots use both Bing and Google Webmaster Tools together.</p>
+<p><a href="https://tommccallumseo.github.io/glossary/bing">Bing</a> also has crawl stats and index status reports on their own Webmaster Tools service. To get the clearest picture of how your webpages are being handled by the bots use both Bing and Google Webmaster Tools together.</p>
 
 <p>Still concerned about how the search engine bots are crawling your site? Check out this article from Search Engine Journal on <a href="https://www.searchenginejournal.com/10-ways-to-increase-your-site-crawl-rate/7159/" target="_blank">how to increase your crawl rate</a>.</p>
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -147,10 +147,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

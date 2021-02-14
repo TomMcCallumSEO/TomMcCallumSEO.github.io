@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/alt-tag">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/alt-tag">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -106,11 +106,11 @@ window.cookieconsent.initialise({
 
 <h2>Alt tags and accessibility</h2>
 
-<p>A useful useful way for an SEO to think about alt tags is in terms of <a href="<a href="https://www.theseoniverse.com/glossary/accessibility">">accessibility</a>. Many visually impaired people experience the internet with the help of a screen reader, which scans and reads aloud the text on the page. When it reaches an image the screen reader reads the alt tag in an attempt to explain what the image is about.</p>
+<p>A useful useful way for an SEO to think about alt tags is in terms of <a href="<a href="https://tommccallumseo.github.io/glossary/accessibility">">accessibility</a>. Many visually impaired people experience the internet with the help of a screen reader, which scans and reads aloud the text on the page. When it reaches an image the screen reader reads the alt tag in an attempt to explain what the image is about.</p>
 
 <h2>Alt tags for SEO optimisation</h2>
 
-<p>Like a screen reader, search engines use the alt tag and image title to understand images so it's crucial to your SEO efforts that your alt tags clearly explain what the image is about. To help the search engines contextualise the page, it's a good idea to use target keywords in the alt tag where necessary – but don't abuse this! Alt tags for images which are purely decorative, in that they don't add any important information that will help the user understand the page, should be left blank. Read more about <a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">alt tags and SEO in this blog post</a>.</p>
+<p>Like a screen reader, search engines use the alt tag and image title to understand images so it's crucial to your SEO efforts that your alt tags clearly explain what the image is about. To help the search engines contextualise the page, it's a good idea to use target keywords in the alt tag where necessary – but don't abuse this! Alt tags for images which are purely decorative, in that they don't add any important information that will help the user understand the page, should be left blank. Read more about <a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">alt tags and SEO in this blog post</a>.</p>
 
 <h2>Where do alt tags go?</h2>
 
@@ -120,17 +120,17 @@ window.cookieconsent.initialise({
 
 <p>If you haven't already, you should make sure all non-decorative images on your website have an alt attribute and fit in a target keyword if it's appropriate.</p>
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -143,10 +143,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

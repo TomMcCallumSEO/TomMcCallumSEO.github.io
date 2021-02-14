@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/meta-description">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/meta-description">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -58,12 +58,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -78,10 +78,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -103,7 +103,7 @@ window.cookieconsent.initialise({
 
 <p class="glossary-intro">A <dfn>meta description</dfn> is a short snippet of text that appears in the search results under the page title and url. The meta description describes the content of the page and should encourage the user to click by assuring them that the page contains the information that they are looking for.</p>
                                                                                                                   
-<p class="glossary-intro"><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50.png"><img class="size-large wp-image-817 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50-1024x178.png" alt="seoniverse meta description" width="676" height="118" /></a></p>
+<p class="glossary-intro"><a href="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50.png"><img class="size-large wp-image-817 aligncenter" src="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50-1024x178.png" alt="seoniverse meta description" width="676" height="118" /></a></p>
                                                                                                                   
 <p>The above is a search results snippet for the SEOniverse homepage. The purple text is the page title or meta title (the user in this case has clicked on the link before, otherwise it would be blue) the green text is the url and the dark grey text underneath is the meta description.</p>
 
@@ -117,7 +117,7 @@ window.cookieconsent.initialise({
 
 <p>Be aware that there is a limit on the length of your meta description. This is best understood as a character limit but is more accurately based on the number of pixels in your description. If you exceed the maximum number of pixels the search engine will cut off your meta description early with an ellipsis, as in the example below:</p>
 
-<p><a href="http://searchengineland.com/write-meta-description-gets-clickthroughs-207922"><img class="size-large wp-image-820 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-09-08-at-08.07.06-1024x169.png" alt="search engine land truncated meta description" width="676" height="112" /></a></p>
+<p><a href="http://searchengineland.com/write-meta-description-gets-clickthroughs-207922"><img class="size-large wp-image-820 aligncenter" src="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-09-08-at-08.07.06-1024x169.png" alt="search engine land truncated meta description" width="676" height="112" /></a></p>
 
 <p>Capital letters have more pixels than lower-case letters so a meta description written in capital letters will be permitted less characters. However, as a rough guide try to a maximum of 160 characters - anywhere between 140 and 160 characters is usually the optimal length for a meta description.</p>
 
@@ -136,17 +136,17 @@ window.cookieconsent.initialise({
 
 <p>Yes! Even though the meta description isn't taken into account by Google's algorithm, the keywords in the description that match the user's query are bolded. Take what you can when you're trying to get your description to stand out from the competition.</p>
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -159,10 +159,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

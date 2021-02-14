@@ -7,11 +7,11 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/content-marketing">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/content-marketing">
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
 
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -60,12 +60,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -80,10 +80,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -109,7 +109,7 @@ window.cookieconsent.initialise({
 
 <h2>What kind of content should you publish?</h2>
 
-<p>It's no use publishing any old content, however. If you write a fantastic eBook about caravans that ranks number one in Google for a number of high-volume caravan-related keywords, it's not much use if your company sells baby clothes. You need to produce content relevant to your product or services. That way, not only will Google be more likely to view your site as an <a href="https://www.theseoniverse.com/glossary/authority">authority</a> in your industry, but the long-tail traffic you attract to your domain will be more likely to convert into customers. In this example, a blog about babies and parenthood would be much more relevant to the type of customer the product is for. Not all posts would have to be confined to baby clothes either, Google is now very adept at grouping content by topic.</p>
+<p>It's no use publishing any old content, however. If you write a fantastic eBook about caravans that ranks number one in Google for a number of high-volume caravan-related keywords, it's not much use if your company sells baby clothes. You need to produce content relevant to your product or services. That way, not only will Google be more likely to view your site as an <a href="https://tommccallumseo.github.io/glossary/authority">authority</a> in your industry, but the long-tail traffic you attract to your domain will be more likely to convert into customers. In this example, a blog about babies and parenthood would be much more relevant to the type of customer the product is for. Not all posts would have to be confined to baby clothes either, Google is now very adept at grouping content by topic.</p>
 
 <h2>Creating content that ranks</h2>
 
@@ -119,22 +119,22 @@ window.cookieconsent.initialise({
 
 <h2>Attracting backlinks to your content</h2>
 
-<p>Once you have your content, the next piece of the ranking puzzle is attracting <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a>.</p>
+<p>Once you have your content, the next piece of the ranking puzzle is attracting <a href="https://tommccallumseo.github.io/glossary/backlinks">backlinks</a>.</p>
 
 <p>If you've spent enough time and effort creating outstanding content this shouldn't be too difficult. While search engines would prefer to see backlinks going to great content naturally, this doesn't tend to happen in reality. A healthy, white-hat link building campaign, utilising social media and influencers in your industry is always going to lead to more success.</p>
 
-<p>Don't be tempted to indulge in <a href="https://www.theseoniverse.com/glossary/black-hat-seo">black hat</a> techniques to get work done - paid links are never worth the money. Links that come from authoritative websites and from the users own free will are the ones that will give you a hand to the top of the SERPs.</p>
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<p>Don't be tempted to indulge in <a href="https://tommccallumseo.github.io/glossary/black-hat-seo">black hat</a> techniques to get work done - paid links are never worth the money. Links that come from authoritative websites and from the users own free will are the ones that will give you a hand to the top of the SERPs.</p>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -147,9 +147,9 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
 
   </div>
   <div class="footer-content-right">

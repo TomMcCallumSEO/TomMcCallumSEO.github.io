@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/keywords">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/keywords">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -58,12 +58,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -78,10 +78,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -121,7 +121,7 @@ window.cookieconsent.initialise({
 
 <h2>A quick guide to keyword research in practice</h2>
 
-<p>The most popular tool for SEO keyword research is the <a href="https://adwords.google.com/ko/KeywordPlanner/">Keyword Planner</a> in Google <a href="https://www.theseoniverse.com/glossary/adwords">AdWords</a> – a tool more designed for PPC advertising but still incredibly useful for SEO. Here's a speedy overview on how to use it for keyword research:</p>
+<p>The most popular tool for SEO keyword research is the <a href="https://adwords.google.com/ko/KeywordPlanner/">Keyword Planner</a> in Google <a href="https://tommccallumseo.github.io/glossary/adwords">AdWords</a> – a tool more designed for PPC advertising but still incredibly useful for SEO. Here's a speedy overview on how to use it for keyword research:</p>
 
 <h4>Adwords Keyword Planner tool</h4>
 
@@ -131,21 +131,21 @@ window.cookieconsent.initialise({
 
 <p><strong>1.</strong> Type a few phrases you think people would use to search for your website:</p>
 
-<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18.png"><img class="alignnone size-large wp-image-750" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18-1024x414.png" alt="keyword planner search box" width="676" height="273" /></a></p>
+<p><a href="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18.png"><img class="alignnone size-large wp-image-750" src="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18-1024x414.png" alt="keyword planner search box" width="676" height="273" /></a></p>
 
 <strong>2.</strong> Click on the '<strong>get ideas</strong>' button and view the monthly search volume for these terms. Below you can see "<strong>custom bikes</strong>" with 1,300 searches is the most popular term.</p>
 
-<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05.png"><img class="alignnone size-large wp-image-751" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05-1024x444.png" alt="keyword planner search volume" width="676" height="293" /></a></p>
+<p><a href="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05.png"><img class="alignnone size-large wp-image-751" src="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05-1024x444.png" alt="keyword planner search volume" width="676" height="293" /></a></p>
 
 <p>However, we know that the more words contained in a search query the less competition it has. Although "<strong>custom built mountain bikes</strong>" has just 30 monthly searches compared to "<strong>custom bikes</strong>" 1,300, it's likely to be a far easier term to rank highly for. It's important to remember that there's no use targeting a keyword which is so competitive that nobody searching for it will ever see your webpage.</p>
 
-<p>To determine competition, <a href="https://www.theseoniverse.com/glossary/google">Google</a> the terms you find in your research and check the competition on page one of the SERPs. If you don't think you can create content that can compete with the term, find another less competitive term to target.</p>
+<p>To determine competition, <a href="https://tommccallumseo.github.io/glossary/google">Google</a> the terms you find in your research and check the competition on page one of the SERPs. If you don't think you can create content that can compete with the term, find another less competitive term to target.</p>
 
 <p><em><strong>Note:</strong> the 'Competition' field refers to PPC bids and does not denote competition to rank in the SERPs.</em></p>
 
 <p><strong>3.</strong> Now check out the terms below the terms you searched for:</p>
 
-<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42.png"><img class="alignnone size-large wp-image-752" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42-1024x451.png" alt="Screen Shot 2016-08-08 at 07.15.42" width="676" height="298" /></a></p>
+<p><a href="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42.png"><img class="alignnone size-large wp-image-752" src="https://tommccallumseo.github.io/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42-1024x451.png" alt="Screen Shot 2016-08-08 at 07.15.42" width="676" height="298" /></a></p>
 
 <p>The Keyword Planner tool returns thousands of related terms for you to explore. You should go through these identifying where the potential lies for your website and create content that targets these terms.</p>
 
@@ -158,7 +158,7 @@ window.cookieconsent.initialise({
 
 <p>If the keyword is used in the meta description, the search engine won't take it into account as a ranking or relevancy factor, but the words will be bolded for searches using the keyword.</p>
 
-<p>Using the keyword in the <a href="https://www.theseoniverse.com/glossary/anchor-text">anchor text</a> of a few <a href="https://www.theseoniverse.com/glossary/internal-link">internal links</a> and encouraging the same in external links will also improve chances of ranking for that keyword.</p>
+<p>Using the keyword in the <a href="https://tommccallumseo.github.io/glossary/anchor-text">anchor text</a> of a few <a href="https://tommccallumseo.github.io/glossary/internal-link">internal links</a> and encouraging the same in external links will also improve chances of ranking for that keyword.</p>
 
 <p>Be aware that ranking for a keyword is not just a case of including the term a number of times. Your content must first and foremost be high-quality and useful to the user or it won't stand a chance of ranking. Long gone are the days of manipulating the search engines by using keywords excessively and the search engines are on the lookout for a number of manipulative signals.</p>
 
@@ -183,17 +183,17 @@ window.cookieconsent.initialise({
 <h2>Keep it natural!</h2>
 
 <p>Although keywords are important for a good SEO  strategy, it's easy to over-think it. If you're knowledgeable about your subject you should use the keywords naturally - certainly don't try and force it. Keep it natural and remember that your page is being written for the user first!</p>
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -206,10 +206,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">

@@ -7,11 +7,11 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <link rel="canonical" href="https://www.theseoniverse.com/glossary/key-performance-indicators">
+  <link rel="canonical" href="https://tommccallumseo.github.io/glossary/key-performance-indicators">
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   
-  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  <link rel="stylesheet" type="text/css" href="https://tommccallumseo.github.io/styles/layout-styles.css">
   
   <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
@@ -58,12 +58,12 @@ window.cookieconsent.initialise({
      aria-controls="main-menu"
      aria-label="Open main menu">
 
-      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+      <img src="https://tommccallumseo.github.io/images/burger-menu.png" height="30" width="36">
     <span class="sr-only">Open main menu</span>
     <span class="fa fa-bars" aria-hidden="true"></span>
   </a>
   
-  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  <h1 class="logo"><a href="https://tommccallumseo.github.io">The SEOniverse</a></h1>
   
   <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
     <a href="#main-menu-toggle"
@@ -78,10 +78,10 @@ window.cookieconsent.initialise({
       <span class="fa fa-close" aria-hidden="true"></span>
     </a>
     <ul>
-      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
-      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
-      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
-      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+      <li><a href="https://tommccallumseo.github.io/about/">About</a></li>
+      <li><a href="https://tommccallumseo.github.io/blog/">Blog</a></li>
+      <li><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></li>
+      <li><a href="https://tommccallumseo.github.io/contact/">Contact</a></li>
     </ul>
   </nav>
   <a href="#main-menu-toggle"
@@ -111,7 +111,7 @@ window.cookieconsent.initialise({
 
 <h4>Sessions</h4>
 
-<p>The number of times your website was accessed, regardless of repeat visits. If a user from the same <a href="https://www.theseoniverse.com/glossary/internet-protocol">IP address</a> visited your site 100 times this would count as 100 visits.</p>
+<p>The number of times your website was accessed, regardless of repeat visits. If a user from the same <a href="https://tommccallumseo.github.io/glossary/internet-protocol">IP address</a> visited your site 100 times this would count as 100 visits.</p>
 
 <h4>Users</h4>
 
@@ -127,11 +127,11 @@ window.cookieconsent.initialise({
 
 <h3>Bounce rate</h3>
 
-<p>A bounce is when a user visits one page on your site and leaves without navigating to another page. A bounce is counted regardless of how long the user spends on the page. <a href="https://www.theseoniverse.com/glossary/bounce-rate">Bounce rate</a> is the percentage of users that bounce on a particular page.</p>
+<p>A bounce is when a user visits one page on your site and leaves without navigating to another page. A bounce is counted regardless of how long the user spends on the page. <a href="https://tommccallumseo.github.io/glossary/bounce-rate">Bounce rate</a> is the percentage of users that bounce on a particular page.</p>
 
 <h3>Pages per session</h3>
 
-<p>Pages per session is the average number of pages visited in all sessions on your website. A good <a href="https://www.theseoniverse.com/glossary/internal-link">internal linking</a> structure will encourage people to visit more pages.</p>
+<p>Pages per session is the average number of pages visited in all sessions on your website. A good <a href="https://tommccallumseo.github.io/glossary/internal-link">internal linking</a> structure will encourage people to visit more pages.</p>
 
 <h3>Custom goals</h3>
 
@@ -139,7 +139,7 @@ window.cookieconsent.initialise({
 
 <h3>Conversion rate</h3>
 
-<p><a href="https://www.theseoniverse.com/glossary/conversion">Conversion</a> rate is the percentage of users that perform a task that you have predetermined to be a goal. An example for a goal would be a user placing an order on an ecommerce website.  If half the users on the site place an order the conversion rate would be 50%.</p>
+<p><a href="https://tommccallumseo.github.io/glossary/conversion">Conversion</a> rate is the percentage of users that perform a task that you have predetermined to be a goal. An example for a goal would be a user placing an order on an ecommerce website.  If half the users on the site place an order the conversion rate would be 50%.</p>
 
 <h3>Keyword ranking</h3>
 
@@ -147,21 +147,21 @@ window.cookieconsent.initialise({
 
 <h3>Backlinks</h3>
 
-<p>Using tools to measure the number of <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a> - their frequency, where they're coming from, the <a href="https://www.theseoniverse.com/glossary/authority">authority</a> and relevance of the sites they come from, the pages they are linking - is important to  properly gauge the effectiveness of your content and outreach strategy. Few and infrequent backlinks will tell you that you need to rethink your strategy and perhaps do a spot of link building.</p>
+<p>Using tools to measure the number of <a href="https://tommccallumseo.github.io/glossary/backlinks">backlinks</a> - their frequency, where they're coming from, the <a href="https://tommccallumseo.github.io/glossary/authority">authority</a> and relevance of the sites they come from, the pages they are linking - is important to  properly gauge the effectiveness of your content and outreach strategy. Few and infrequent backlinks will tell you that you need to rethink your strategy and perhaps do a spot of link building.</p>
 
 <p>You should also closely monitor backlinks to make sure no spam links are coming to you. If you are being overwhelmed by spammers you can always disavow the dodgy links.</p>
 
-<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+<h2><a href="https://tommccallumseo.github.io/glossary/">Back to the SEO glossary &rarr;</a></h2>
 </div>
 
 <div class="side-bar">
 <h3>Latest from the blog</h3>
- <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
-<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+ <p><a href="https://tommccallumseo.github.io/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/seo-jokes">8 brilliant SEO jokes</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
 
-<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+<p><a href="https://tommccallumseo.github.io/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
 
 
 </div>
@@ -174,10 +174,10 @@ window.cookieconsent.initialise({
 <div class="footer">
   <div class="footer-content-left">
   <h4>Resources</h4>
-  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
-  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
-<p><a href="https://www.theseoniverse.com/about/">About</a></p>
-<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  <p><a href="https://tommccallumseo.github.io/blog/">Blog</a></p>
+  <p><a href="https://tommccallumseo.github.io/glossary/">Glossary</a></p>
+<p><a href="https://tommccallumseo.github.io/about/">About</a></p>
+<p><a href="https://tommccallumseo.github.io/privacy/">Privacy</a></p>
   
   </div>
   <div class="footer-content-right">
