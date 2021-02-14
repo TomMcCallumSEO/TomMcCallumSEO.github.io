@@ -1,0 +1,165 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+
+  <title>What is content marketing?</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/content-marketing">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What is content marketing?</h1>
+
+
+<p class="glossary-intro"><dfn>Content marketing</dfn> is the act of publishing content to improve the visibility and reputation of a brand. Content marketing is a key part of a standard SEO strategy.</p>
+
+<h2>Content marketing and SEO</h2>
+
+<p>Search engines love to see frequently updated, relevant and authoritative content published on websites and look to rank the highest quality content for every search query. It goes without saying that if you want to improve your SEO, you'll need to spend a lot of time and effort producing content that users love to find.</p>
+
+<h2>What kind of content should you publish?</h2>
+
+<p>It's no use publishing any old content, however. If you write a fantastic eBook about caravans that ranks number one in Google for a number of high-volume caravan-related keywords, it's not much use if your company sells baby clothes. You need to produce content relevant to your product or services. That way, not only will Google be more likely to view your site as an <a href="https://www.theseoniverse.com/glossary/authority">authority</a> in your industry, but the long-tail traffic you attract to your domain will be more likely to convert into customers. In this example, a blog about babies and parenthood would be much more relevant to the type of customer the product is for. Not all posts would have to be confined to baby clothes either, Google is now very adept at grouping content by topic.</p>
+
+<h2>Creating content that ranks</h2>
+
+<p>Google have, rather mystically, gone on record saying that they rank pages based on "content and links". Sounds simple. While the Google algorithm is massively complicated, your content marketing strategy need not be. Focus on your niche and produce more content that is more useful than any of your competitors, that way you stand a good chance of reaching at least page one of the SERPs.</p>
+
+<p>If you can't create content that blows the competition into oblivion, you should think about creating new content targeting less competitive keywords that can.</p>
+
+<h2>Attracting backlinks to your content</h2>
+
+<p>Once you have your content, the next piece of the ranking puzzle is attracting <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a>.</p>
+
+<p>If you've spent enough time and effort creating outstanding content this shouldn't be too difficult. While search engines would prefer to see backlinks going to great content naturally, this doesn't tend to happen in reality. A healthy, white-hat link building campaign, utilising social media and influencers in your industry is always going to lead to more success.</p>
+
+<p>Don't be tempted to indulge in <a href="https://www.theseoniverse.com/glossary/black-hat-seo">black hat</a> techniques to get work done - paid links are never worth the money. Links that come from authoritative websites and from the users own free will are the ones that will give you a hand to the top of the SERPs.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is Bing?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/bing">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What is Bing?</h1>                                                                                                               
+
+<p class="glossary-intro"><dfn>Bing</dfn> is a search engine from Microsoft which has a global market share of around 12%, making it the second most popular search engine in the world and the closest rival to Google.</p>
+
+<h2>Bing's history</h2>
+
+<p>Microsoft have had various ventures into the world of web search starting with MSN Search progressing to Windows Live Search and later Live Search.</p>
+
+<p>The Bing search engine was unveiled to much fanfare in 2009 heralding new features to web search such as the listing of search suggestions as the user enters keywords and a list of related searches. These now commonplace semantic search features were made possible after Microsoft's acquisition of San Francisco-based natural search company Powerset in 2008.</p>
+
+<p>In 2009 Microsoft announced that the search engine Yahoo! was to be powered by Bing. This was changed to "the majority" of Yahoo! searches in 2015.</p>
+
+<p>Recent technological developments of interest with the Bing search engine are with delivering personalised searches that are more relevant to the user, known as <a href="https://www.theseoniverse.com/glossary/adaptive-search/">adaptive search</a>.</p>
+
+<h2>Bing vs Google</h2>
+
+<p>Is Bing better than Google? This is a common question that arises whenever anyone mentions the 'B' word.</p>
+
+<p>Most in the search industry would be quick to admit that for providing relevant results, Google has the edge over Bing. However, that does not mean that Bing should be completely discounted.</p>
+
+<p>The vertical search features of Bing, particularly the images search engine, are noteworthy and many prefer these results over Google image or video results - if nothing else for aesthetic reasons. Bing's recent innovations in personalised search has also placed it as a possible contender to Google. Bing certainly does, however, have a long way to go to compete against the Big G's global dominance in search.</p>
+
+<h2>How many people use Bing?</h2>
+
+<p>Following  scandals in the surrounding the amount of tax Google pay to the UK government and the continuing advances of the Bing search engine, between 2014 and 2016 <a href="http://www.statista.com/statistics/279850/market-share-held-by-bing-in-the-united-kingdom-uk/">Bing's market share in Britain</a> significantly increased.</p>
+
+<p>However, Google still own well over 80% of the search engine market whereas Bing are stopping just short of 10%.</p>
+
+<p>According to <a href="http://www.comscore.com/Insights/Market-Rankings/comScore-Releases-November-2015-US-Desktop-Search-Engine-Rankings">comScore's 2015 report</a> on the major search engines in the US,  Bing powers 20.9% of searches, behind Google on 63.9%. Yahoo!, which is largely powered by Bing technology powers 12.5% of searches.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

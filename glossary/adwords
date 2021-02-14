@@ -1,0 +1,171 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is AdWords?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/adwords">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is AdWords?</h2>
+
+<p class="glossary-intro"><dfn>AdWords</dfn> is an online advertising platform from Google that enables businesses to display adverts in Google search results and advertising network.</p>
+
+<p>Businesses create 'campaigns' on AdWords, bidding against competitors to have their adverts appear on the Google search results pages when users search for certain keywords. When their advert is clicked the business pays Google a fee – this is known as pay-per-click (PPC) marketing.</p>
+
+<p>The highlighted search results below are all PPC adverts, you can tell by the yellow 'ad' symbol. These results are known as paid results and the businesses who created the adverts are all be bidding on the keyword 'SEO'.</p>
+
+<p>The number of adverts that appear in the results often depends on how transactional the search term is. For example, a search for "buy a digital camera" is highly transactional so would be likely to have four paid ads showing above the organic search results as well as three paid ads below. Users can choose where they would like their adverts to appear, however, the higher up the page will cost more as it will generally get more eyeballs and clicks.</p>
+
+<p>Great copywriting is key to success on AdWords as eye-catching ad copy attracts  goes some way to negating the adverse effects of a low position.</p>
+
+<h2>Keyword matching in AdWords</h2>
+
+<p>Businesses have different options available to them when choosing keywords to match their adverts to. The most common are:</p>
+
+<p><strong>Broad match</strong> – reaches the most users as the ad is shown whenever the keyword is searched for.</p>
+
+<p><strong>Negative match</strong> – prevents the advert from showing when a specified keyword is searched for.</p>
+
+<p><strong>Phrase match</strong> – adverts are only shown is the exact specified keyword phrase is within the search.</p>
+
+<p><strong>Exact match</strong> – Exclusively shows the advert only to the specified keywords searched for.</p>
+
+<h2>Budgeting in AdWords</h2>
+
+<p>AdWords indicates to users how expensive the keywords they bid on are with an indication of how much each click will cost when the advert is shown for that specific keyword. This is called cost-per-click (CPC). The user will specify the maximum they are willing to pay for the click. The higher the bid, the more likely it is that the advert will appear higher up in the paid results.</p>
+
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

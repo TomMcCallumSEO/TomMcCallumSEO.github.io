@@ -1,0 +1,166 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is a bot?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/bot">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is a bot?</h1>  
+                                                                                                              <p class="glossary-intro">A <dfn>bot</dfn> – also known as an internet bot, web robot or web crawler – is a software application which automatically crawls the internet running scripts. Bots perform tasks that are structured and repetitive at a far higher rate than would be possible for a human.</p>
+
+<h2>Bots for SEO</h2>
+
+<p>The bots that are dispatched by the major search engines crawl the internet feeding back information about  web pages for the search engines to hold in their index. The most common bots for SEOs to be concerned with are Google bot and <a href="https://www.theseoniverse.com/glossary/bingbot">Bingbot</a>.</p>
+
+<p>Bots can validate hyperlinks and HTML code so they can send signals about poor quality pages and domains to the search engines. If your pages are found to be poor quality, the bots are less likely to come back and visit your domain making it less likely that all the relevant pages on your site will be indexed by the search engines and findable by users.</p>
+
+<h2>Crawl budget</h2>
+
+<p>The number of pages on the internet is incredibly large and, even for a bot, it's impossible for every page to be crawled and indexed. If your domain is seen as being low quality, or you do not offer enough positive signals to the bot about your pages, you may receive a small crawl budget, meaning only a selection of your pages will be crawled and indexed. Having good quality pages and an intuitive site structure can increase your crawl budget.</p>
+
+<h2>Keeping track of the bots</h2>
+
+<p>You can keep an eye on how often your site is crawled in Google Webmaster Tools' crawl rate report</p>
+
+<p>If you're worried about Google not indexing all your pages, you can check this in the index status report. If the number of indexed pages drops, it's a clear sign that something is wrong with the SEO of your domain and you should address it as quickly as possible.</p>
+
+<p>In the index status report above, you can see that a new website typically takes a while to be crawled by bots and indexed.</p>
+
+<p><a href="https://www.theseoniverse.com/glossary/bing">Bing</a> also has crawl stats and index status reports on their own Webmaster Tools service. To get the clearest picture of how your webpages are being handled by the bots use both Bing and Google Webmaster Tools together.</p>
+
+<p>Still concerned about how the search engine bots are crawling your site? Check out this article from Search Engine Journal on <a href="https://www.searchenginejournal.com/10-ways-to-increase-your-site-crawl-rate/7159/" target="_blank">how to increase your crawl rate</a>.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

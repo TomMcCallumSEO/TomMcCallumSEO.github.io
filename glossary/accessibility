@@ -1,0 +1,159 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is accessibility? | The SEOniverse | UK</title>
+  
+  <meta name="Accessibility is about how easy a website is to use, particularly for those with disabilities.">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/accessibility">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+
+<h1>What is accessibility?</h1>
+
+<p class="glossary-intro"><dfn>Accessibility</dfn></span> is all about how easy a website or application is to use, particularly for those with disabilities.</p>
+
+<p>For example, a visually impaired user is likely to access web pages using a <a href="http://www.rnib.org.uk/information-everyday-living-using-technology-beginners-guides/beginners-guide-assistive-technology" target="_blank">screen reader</a>, which reads out the text and the descriptions of the images.</p>
+
+<h2>What does accessibility have to do with SEO?</h2>
+
+<p>Accessibility should be at the top of your SEO priority list as a website that's more accessible to users is also easier for search engines to understand. A good place to start would be tagging all images with an understandable description of the what the image is. These alternative descriptions or 'alts' – commonly called alt tags or alt attributes – are read out to visually impaired users via a screen reader, so a good rule is if you can't imagine the image clearly from the description alone, your description needs to change.</p>
+
+<p>Be aware that not every image should have an alt description, just the images that contribute to the understanding of the page. For purely decorative images you should leave a blank alt tag (alt="") so the search engine or screen reader knows that the image is not necessary for interpretation.</p>
+
+<p>As Google always tells us: If you get it right for people, you'll get it right for the search engines. In fact, accessibility is so important to search engines that it's now a core part of Google's webmaster guidelines:</p>
+
+<em>"Ensure that your pages are useful for readers with visual impairments, for example, by testing usability with a screen-reader."</em>
+
+</em><a href="https://support.google.com/webmasters/answer/35769?hl=en" target="_blank">GOOGLE WEBMASTER GUIDELINES, JAN 2016</a></em>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017.html">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

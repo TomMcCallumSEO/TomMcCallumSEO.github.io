@@ -1,0 +1,183 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is Bingbot?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/bingbot">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is Bingbot?</h1>
+                                                                                                                 <p class="glossary-intro"><dfn>Bingbot</dfn> is one of Microsoft's five web-crawling robots that collect documents from the web to build the <a href="https://www.theseoniverse.com/glossary/bing">Bing</a> search engine index. It performs the same function as Google's Googlebot, following index requests from Bing Webmaster Tools and links from web pages to build an accurate picture of the web.</p>
+                                                                                                                 
+<h2>What are Microsoft's other crawlers?</h2>
+
+<p class="glossary-intro">Bingbot is Microsoft's standard crawler and it manages the vast majority of crawling every day with a number of desktop and mobile variants. The other four are:</p>
+
+<h3>MSNBot</h3>
+
+<p>MSNBot was the standard crawler before Bingbot was unleashed in 2010 and it still admirably handles a fair portion of crawls.</p>
+
+<h3>MSNBot-Media</h3>
+
+<p>MSNBot media handles image and video crawls.</p>
+
+<h3>AdldxBot</h3>
+
+<p>The snappily named AdldxBot is the main crawler for Bing Ads. It follows all ads to verify their authenticity. Like Bingbot, AdldxBot has desktop and mobile variants.</p>
+
+<h3>BingPreview</h3>
+
+<p>BingPreview is the crawler used to generate previews of webpages.</p>
+
+<h2>Verifying Bingbot</h2>
+
+<p>All search crawlers are identified by a user agent string, for an example of what these should look like check out <a href="https://www.bing.com/webmaster/help/which-crawlers-does-bing-use-8c184ec0">Bing's examples of user agent strings for each of their bots</a> on their Webmaster Help page. However, these strings are easy to spoof so they may not be identifiable by matching the strings manually. Bing (understandably) does not share the IP addresses from which it crawls the web, but if you're in doubt you can use  <a href="http://www.bing.com/toolbox/verify-bingbot">the verification tool</a> to see if you're being crawled by a Bingbot or someone masquerading as a Bingbot.</p>
+
+<h2>Controlling the crawlers</h2>
+
+<p>There are various methods for controlling how Microsoft's Bingbot crawls and indexes your website:</p>
+
+<h3>robots.txt</h3>
+
+<p>Like Googlebot, you can tell  the Bingbot how you would like it to crawl your website with a robots.txt file.</p>
+
+<h3>rel="nofollow"</h3>
+
+<p>"No follow" attributes (<strong>rel="nofollow" or content="nofollow"</strong>) can also be added to any links that you don't want the bots to pass link juice through. Be aware that the pages linked to will still be crawled and possibly indexed too.</p>
+
+<h3>Crawl control</h3>
+
+<p>You can also use the <a href="https://www.bing.com/webmaster/help/crawl-control-55a30302">crawl control</a> feature within Bing Webmaster Tools to select a crawl pattern for your website. Setting the Bingbot to crawl when you have less visitors on your site will save bandwidth and allow the bots to perform a more in-depth, faster crawl at quieter times of the day – in theory anyway. If you're struggling to get Bing to index your site, make sure you submit an XML sitemap in Webmaster Tools and think about reviewing your internal linking strategy.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

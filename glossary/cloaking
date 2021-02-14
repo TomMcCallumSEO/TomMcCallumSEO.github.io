@@ -1,0 +1,164 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is cloaking?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/cloaking">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is cloaking?</h1>
+
+<p class="glossary-intro"><dfn>Cloaking</dfn> is the act of determining whether an incoming visitor to a page is a search engine crawler or a user and serving different content to each. When a search engine is detected, a server-side script shows the crawler a different version of the page to the one that's visible to human users in their web browser.</p>
+
+<h2>Why would you want to serve the crawler a different page from the user?</h2>
+
+<h3>Black hat cloaking</h3>
+
+<p>Cloaking is often used as a <a href="https://www.theseoniverse.com/glossary/black-hat-seo">black hat</a> technique to rank a page that is irrelevant for the search term. For example, the crawler is served a quality page which it would be likely to rank for a high-volume search term; however, the content served to the user does not satisfy the intent of their query.</p>
+
+<p>SEOs used to defend the use of cloaking by complaining that pages that search engines choose to rank are not necessarily user-friendly. But updates in Google's and Bing's ability to rank pages by their usability have more or less put this argument to bed. <a href="https://support.google.com/webmasters/answer/66355?hl=en">Google's Matt Cutts has stated</a> that any website found cloaking with black hat intentions will be penalised:</p>
+
+<p><blockquote>"Serving up different results based on user agent may cause your site to be perceived as deceptive and removed from the Google index."</blockquote></p>
+
+<h3>White hat cloaking</h3>
+
+<p>Sometimes, for a variety of reasons, it might make sense to show the search engine a different page to the users. For example, Google might crawl your site from the US and will index this one - despite the majority of your users being served the UK version of the page.</p>
+
+<p>Search engines also struggle with certain types of content, such as Flash and Ajax, and some SEOs create pages with easy-to-crawl HTML in place of these specifically for the crawlers. This makes sense from a user perspective (although might not be advisable so err on the side of caution with this one).</p>
+
+<h2>How to detect cloaking on a page from the SERPs</h2>
+
+<p>If you suspect a page is using cloaking you can always select to see the page from Googles <a href="https://www.theseoniverse.com/glossary/cache">cache</a> by selecting the option from the SERPs (more on this <a href="https://www.theseoniverse.com/glossary/cache">here</a>). If the page in the cache is different from the one you're on then cloaking is being used.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

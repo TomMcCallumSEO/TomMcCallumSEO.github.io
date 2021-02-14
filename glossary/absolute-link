@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>What is an absolute link? | The SEOniverse | UK</title>
+  
+  <meta name="An absolute link is a hyperlink written in HTML which contains the full url as opposed to just part of it.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/absolute-link">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is an absolute link?</h1>
+
+<p class="glossary-intro">An <dfn>absolute link</dfn> is a hyperlink written in HTML which contains the full url as opposed to just part of it.</p>
+
+<p>An absolute link defines the location of a document using the entire instructions for where it is located. An absolute link can be found from anywhere on the web. This is an example of an absolute link:
+
+<p style="overflow: auto;"><strong>https://www.theseoniverse.com/glossary/</strong></p>
+
+<p>This gives the browser all the necessary information for where to find the webpage on the web.</p>
+
+<p>Absolute links differ from relative links which offer only part of the url and can only be located relative to where they are located, for example:</p>
+
+<p><strong>/glossary/</strong></span></p>
+
+<p>The browser won't be able to locate this address from anywhere on the internet, but it will look in the directory of the site it's already to find a match. From within the domain "theseoniverse.com", both these links will point to the same place, but from an external site, only the top one will work.</p>
+
+<h3>Why use absolute links?</h3>
+
+<p>When linking to an external page, absolute links have to be used as they give the browser all the information they need to locate the correct file in the web. If you just give the browser part of the information, as with a relative link, it won't know where to go – unless the file is located within the same domain it is already on.</p>
+
+<h3>Should you use absolute or relative urls on your site?</h3>
+
+<p>A webmaster will probably tell you to use relative urls as it makes their job a lot easier.  Relative links certainly are useful as if you change your site name and root domain, you don't have to go through the entire site updating all the links.</p>
+
+<p>However, SEOs  would say that relative urls should not be used as it could make their job a lot more difficult.</p>
+
+<p>For example, if you use a testing platform on <strong>www.test.com</strong> and your real website on <strong>www.real.com</strong> and you link to your contact page using a relative url (<strong>/contact/</strong>), how would the browser might not know if the page you really mean is <strong>www.real.com/contact/</strong> or <strong>www.test.com/contact/</strong>. Your testing ground could end up getting crawled and indexed causing major duplicate content problems for your website.</p>
+
+<p>You can read more about this issue on SEO company Yoast's strongly worded article on <a href="https://yoast.com/dev-blog/relative-urls-issues/" target="_blank">why relative URLs should be forbidden for web developers</a>.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+
+</div>
+</div>
+
+</body>
+
+</html>

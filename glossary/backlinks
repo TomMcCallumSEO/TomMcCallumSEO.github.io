@@ -1,0 +1,193 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What are backlinks?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/backlinks">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What are backlinks?</h1>
+
+<p class="glossary-intro">A <dfn>backlink</dfn> is an incoming hyperlink from an external web page. Attracting backlinks is key SEO activity for improving a web page's ranking and boosting <a href="https://www.theseoniverse.com/glossary/authority">domain authority</a>.</p>
+
+<h2>Backlinks and Google juice</h2>
+
+<p>It's no secret that links coming to your domain for another are an important ranking factor. When a site with high authority links to a page on your website it signals to the search engine that the content on that page must also be of good quality. The more links coming from high authority pages the more authority will be passed on.</p>
+
+<p>Digital marketers often refer to the authority that's passed between pages as 'Google juice'. The more Google juice a page has, the more relevant the search engine will believe the content is at answering user's search queries.</p>
+
+<p>On the other hand, if the page has a lot of links coming in from low authority domains, this can adversely affect your sites authority and ability to rank (bad Google juice). You may even be penalised. If you suspect that spam websites are linking to your content you might want to think about disavowing those links in Google Webmaster Tools to avoid any repercussions.</p>
+
+<h2>How to attract links to your website</h2>
+
+<h3>Content</h3>
+
+<p>The best way to attract content to your website is to create top quality, unique content that people would be willing to share.  Marketers often talk of the 90/10 ratio when it comes to attracting inbound links – 90% of time spent creating content and 10% spent getting people to read it.  Often sloppy marketers spend too little time creating the content compared to the amount of time promoting it.  However, once you've created your amazing content, you definitely still need to market it.</p>
+
+<h3>Link building</h3>
+
+<p>The process of marketing content with the aim of generating backlinks is called link building and it's one of the key skills of any SEO. Here are a few of the top guides on how to build links that will help your site to rank:</p>
+
+<h5><a href="https://moz.com/beginners-guide-to-link-building">The Beginner's Guide to Link Building</a> – Moz</h5>
+
+<h5><a href="https://www.quicksprout.com/the-advanced-guide-to-link-building/">The Advanced Guide to Link Building</a> – Quicksprout</h5>
+
+<h5><a href="http://backlinko.com/link-building">Link Building: The Definitive Guide</a> – Backlinko</h5>
+
+<h5><a href="http://pointblankseo.com/link-building-strategies">Link Building Tactics</a> – Point Blank SEO</h5>
+
+<h5><a href="http://www.top5seo.co.uk/white-hat-link-building/">White Hate Link Building: The Zen Masters' Guide</a> – Top 5 SEO</h5>
+
+<h2>Paid links</h2>
+
+<p>Paid links are  literally links that you pay for. Link farms and other link schemes where a business pays an "SEO" company to post a load of links on various websites to their content were once seen as a way to force your web pages to rank. This might have been able to fool the search engines in the past, but they are pretty much all wise to these practices now. Google have actively said they will penalise any sites they catch involved in paid schemes. Don't do it!</p>
+
+<h2>Organic backlinks</h2>
+
+<p>Organic backlinks are links that happen naturally. In the eyes of the search engines, good content will automatically generate links. All experienced SEOs know that this "if you build it they will come" philosophy doesn't really work,  but when building links you should do so as holistically as possible. The search engines will look for signs that links are unnatural such as over-optimised <a href="https://www.theseoniverse.com/glossary/anchor-text/">anchor text</a>, links from multiple low authority sites and links coming from sites outside of your industry, so it's really not worth trying to sneak links by them.</p>
+
+<p>Never force people to link to you, let it happen naturally by bringing the content to peoples attention. Offer influencers in you topic area the content to judge for themselves – if it's as good as it should be they might want to link to it. Promote your content on social media channels – your followers will share it of it's useful enough.</p>
+
+<h2>Backlinks and referral traffic</h2>
+
+<p>Backlinks are not just good for SEO, if you have a backlink from a popular website you're likely to get traffic from people clicking the link. This is called referral traffic.</p>
+
+<h2>Internal linking</h2>
+
+<p>In your link building efforts don't forget about linking between pages on your own website. Think about the user journey and create an internal link structure that both makes sense and distributes authority from your prominent pages to your less prominent pages.</p>
+
+<h2>Linking out</h2>
+
+<p>Don't be selfish! It's very nice to receive incoming links but it's important that you share the love by linking out to relevant web pages as well. In fact, although Google have stated that <a href="https://www.seroundtable.com/google-external-links-20951.html">external links don't improve your ranking</a>, some research suggests that <a href="http://www.rebootonline.com/blog/long-term-outgoing-link-experiment/">linking out appropriately to authoritative and relevant sources does have some impact</a> on ranking. That doesn't mean you should link out will-nilly to great sites. Only link out when you're sure that the user will get a greater understanding of your content from the external piece linked to.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

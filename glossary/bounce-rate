@@ -1,0 +1,175 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is bounce rate?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/bounce-rate">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is bounce rate?</h1>                                                                                                                 
+
+<p class="glossary-intro"><dfn>Bounce rate</dfn> is the percentage of users that visit just one page of a website before exiting.</p>
+
+<h2>Why is bounce rate important?</h2>
+
+<p>Bounce rate is an important metric for an SEO to measure. It's an indication of the quality of user experience, which includes both content on the page and navigation from the page. A common cause of a high bounce rate is an unclear internal linking structure that discourages users from navigating to another relevant page on the same domain.</p>
+
+<h2>What to look out for on your website</h2>
+
+<p>Articles targeting long tail terms, such as a blog post, will tend to have a higher bounce rate as users with long tail queries tend to be after a quick answer. You can attempt to reduce this by offering links to similar articles that users on this page will be interested in and using internal links within the <a href="https://www.theseoniverse.com/glossary/body-copy">body copy</a>.</p>
+
+<p>Pages targeting more transactional queries, such as a homepage or product page, should have a much lower bounce rate. If the bounce rate of your homepage is higher than 50 or 60%, you should rethink the user journey and navigational links from that page and perhaps review the keywords that you are targeting on that page.</p>
+
+<h2>Questions to ask in the event of a high bounce rate</h2>
+
+<ul>
+ 	<li>Is the page relevant and useful</li>
+ 	<li>Is it the page you would be looking for if you searched for the target keyword</li>
+ 	<li>Are you clearly encouraged to navigate from this page to another useful and relevant information on the same domain</li>
+ 	<li>Is the page too salesy or advertorial</li>
+ 	<li>Does the information seem unique and authoratative</li>
+ 	<li>Is it likely that this website is the best place to find answers similar to the one just searched for</li>
+</ul>
+
+<h2>Short clicks and long clicks</h2>
+
+<p>Google offers its own <a href="https://support.google.com/analytics/answer/1009409?hl=en">advice on bounce rates</a>, which you should take in to account as it's likely that Google take a version of bounce rates into account in their ranking algorithm. While Google don't have a reliable method of knowing whether or not a user bounced they are probably measuring how long it takes between searches with <a href="https://moz.com/blog/long-click-and-the-quality-of-search-success">long clicks and short clicks</a>.</p>
+
+<h3>What is a short click?</h3>
+
+<p>A short click is where a user performs a search, visits a website briefly, then returns to search again. It indicates to Google that the search result on that particular page was unsatisfactory.</p>
+
+<h3>What is a long click?</h3>
+
+<p>If a user takes a long time to return to search after the initial query, this indicates to Google that the users search query has been satisfied and the information on that page is of a high quality.</p>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

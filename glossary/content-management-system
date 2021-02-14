@@ -1,0 +1,176 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is a content management system?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/content-management-system">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What is a content management system?</h1>                                                                                                                  
+
+
+<p class="glossary-intro"><dfn>A Content Management System</dfn> (<abbr>CMS</abbr>) is a platform for creating and publishing content to the web.  The intention of a CMS is to make the task of publishing to a website easy for everyone, not just web developers.</p>
+
+<h2>Why use a content management system?</h2>
+
+<p>There are several reasons you should choose to use a CMS to publish content to the web:</p>
+
+<h3><strong>You don't have to rely on a developer to publish content</strong></h3>
+
+<p>Publishing content with a good CMS enables you to update and edit content on your own terms, without having to wait on a developer to do the work for you. Often small changes, such as typos, could be quickly edited but waiting in a chain can make the change become a long process. If you're making big changes to page layouts or structure of your site, however, it's best to get someone more familiar with code involved.</p>
+
+<h3>Editing on a CMS is easy to pick up</h3>
+
+<p>A good CMS gives you peace of mind knowing that you can't easily interfere with any important code that could have a devastating effect on your website. Mostly, your edits will happen in a WYSIWYG (What You See Is What You Get) editor and any code changes will happen automatically in the background. WYSIWYG editors should be simple to use and anyone confident with using word processing software shouldn't have any trouble.</p>
+
+<h3>Simple design tweaks are made easy</h3>
+
+<p>Basic design tasks, from adding images to blog posts to changing the colour theme of your website, can easily be done using a CMS. You will normally have to stick to a set layout unless you dip into the <a href="https://www.theseoniverse.com/glossary/css">CSS code</a>, but simple changes to fonts, colours and images are usually straight forward.</p>
+
+<h3>Support and access to a community</h3>
+
+<p>The big CMS platforms offer support to help when you get stuck. They also usually have an avid community of users who are equally on hand to help out anyone struggling to use the system.</p>
+
+<h3>Digital marketing is made easy</h3>
+
+<p>A lot of CMS platforms offer great SEO, social media, email marketing and content marketing add-ons which can automate a lot of the technical stuff for you. While it's often best to handle the code yourself to make sure you are implementing your technical SEO strategy properly, an add-on can be invaluable if you're not confident with code. The <a href="https://yoast.com/">Yoast SEO for WordPress</a> plugin, is a fantastic example of an add-on for the popular WordPress CMS which automates a lot of the technical SEO processes.</p>
+
+<h2>What's the best CMS for SEO?</h2>
+
+<p>Most <a href="https://www.quora.com/What-is-the-best-SEO-friendly-CMS-platform-in-2015-for-a-company-website">SEOs are in agreement</a> that <a href="https://wordpress.com/">WordPress</a> is the best CMS for SEO. Add-ons (or plugins) such as Yoast make it very easy to automate most of the optimisation tasks that are crucial to get your website seen online, such as generating XML sitemaps and adding meta titles and descriptions to all your pages.</p>
+
+<p>Unlike many other CMSs, WordPress HTML code tends to be clean (which the search engines love) and url structures can easily be altered. It's also easy to integrate your website with Google Analytics and Google and Bing's Webmaster Tools, all crucial tools to your SEO monitoring.</p>
+
+<p>While it is possible to have successful, high-ranking websites on other popular CMS platforms – such as <a href="https://www.joomla.org/">Joomla!</a>, <a href="https://www.drupal.org/">Drupal</a> and <a href="https://www.moonfruit.com/">Moonfruit</a> – the functionality of WordPress puts it ahead of the competition, especially for beginners unfamiliar with advanced coding.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

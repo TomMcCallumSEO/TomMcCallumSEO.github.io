@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>What is an A/B test? | The SEOniverse | UK</title>
+  
+    <meta name="description" content="An A/B test is an experiment comparing two versions of a webpage to see which version performs better.">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/a-b-test">
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+
+</head>
+
+<!-- header content -->
+
+
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is an A/B test?</h1>
+
+<p class="glossary-intro">An <dfn>A/B test</dfn> is an experiment comparing two versions of a webpage to see which version performs better.</p>
+
+<p>In a simple A/B test page A acts as the control, remaining the same. Page B is an alternative version of the page introducing a new element (or elements) with a view to improving performance.</p>
+
+<p>A typical A/B test would send 50% of the traffic to the control page (A) and 50% of the traffic to the test page (B). However, depending on the design of the experiment this can change.</p>
+
+<h2>Example of an A/B test</h2>
+
+<p>A common A/B test in the digital marketing world is to check which version of a page converts more users into customers. A simple example would be to change the colour of a call-to-action button to see which one gets more clicks. For example, the A page (also known as the control page) might have a green button, whereas the B page (also known as the variant or test page) might have a red button.</p>
+
+
+<p>When users click any links through to this page 50% would see A with the green button and 50% would see version B with the red button. After a period of time if <a href="http://getdatadriven.com/ab-significance-test" target="_blank">significantly more users</a> click the red button in the over the green, it might be time to think about changing to a red button permanently.</p>
+
+<h2>How do you set up an A/B test?</h2>
+
+<p>While you could set up an A/B test by creating two of your own pages and analysing the result using your usual analytics programme, it's much simpler to use  software ready made for the task.</p>
+
+<h4><a href="https://www.optimizely.com/" target="_blank">Optimizely</a></h4>
+<h4><a href="http://unbounce.com/" target="_blank">Unbounce</a></h4>
+<h4><a href="https://vwo.com/" target="_blank">VWO</a></h4>
+<h4><a href="http://fivesecondtest.com/" target="_blank">Five Second Test</a></h4>
+<h4><a href="http://www.convert.com/" target="_blank">Convert Experiment</a></h4>
+<h4><a href="http://Maxymiser" target="_blank">Maxymiser</a></h4>
+<h4><a href="http://www.bingocardcreator.com/abingo" target="_blank">A/Bingo</a></h4>
+<h4><a href="https://en.abtasty.com/" target="_blank">AB tasty</a></h4>
+<h4><a href="http://Adobe Target" target="_blank">Adobe Target</a></h4>
+<h4><a href="https://support.google.com/analytics/answer/1745152?hl=en" target="_blank">Google Content Experiments</a></h4>
+
+<h2>A/B tests and search engines</h2>
+
+<p>Google is pretty good at determining if an A/B test is going on so don't be tempted to add a noindex directive to the variant pages – this could well lead to all of the pages being deindexed!  Google recommends that you try not to run A/B tests for too long, though how long "not too long" is is uncertain.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+
+  <div class="search">
+
+<script>
+  (function() {
+    var cx = '007151172138576657583:qpe4fitkirk';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search></div>
+  </div>
+</div>
+</div>
+
+</body>
+
+</html>
