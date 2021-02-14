@@ -1,0 +1,163 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is a crawler?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/crawler">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What is a crawler?</h1>
+
+<p class="glossary-intro">A crawler, also web crawler or <a href="https://www.theseoniverse.com/glossary/bot">bot</a>, is a programme or script that automatically travels the pages of the World Wide Web, feeding back information to a database as it does so.  Search engines use web crawlers to provide their databases, or indexes, with up-to-date information about the web.
+<h2>How do you get a crawler to visit your website?</h2>
+Crawlers travel around the web by riding on links. If your website is to be crawled you must ensure that every page is linked internally, and for an extra boost it helps massively to have a large number of external links too. If a page is floating in isolation with no internal or external links, a web crawler is unlikely to be able to find it.</p>
+
+<p>You can also use Google's Search Console to submit a list of pages in the form of an XML Sitemap which will encourage the search engines to send their crawler to visit. You can monitor this by checking:</p>
+
+<ul>
+ 	<li><strong>Crawl rate</strong> – how often the search engine crawler visits your site.</li>
+ 	<li><strong>Index report</strong> – how many pages have been crawled and stored in the search engine's index.</li>
+</ul>
+
+<p>Here's the crawl report and index report for a small business website from Google's Search Console:</p>
+
+<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-29-at-07.53.24.png"><img class="size-large wp-image-564 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-29-at-07.53.24-1024x315.png" alt="image of a crawl report" width="676" height="208" /></a></p>
+
+<h2><a href="https://www.theseoniverse.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-29-at-07.53.05.png"><img class="size-large wp-image-563 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-29-at-07.53.05-1024x527.png" alt="screenshot of an index report" width="676" height="348" /></a></h2>
+
+<h2>Crawl budget</h2>
+
+<p>Depending on the <a href="https://www.theseoniverse.com/glossary/authority">authority</a> and size of your site, search engines will assign a crawl budget. If you site is of a very low authority wth thousands of pages, the crawler will only be likely to visit the top level pages before the budget runs out and the web crawler leaves. It's important to make your website as attractive a place as possible for the crawler to stick around with a great structure, internal linking, clean code and great content.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

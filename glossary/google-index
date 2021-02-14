@@ -1,0 +1,151 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is the Google index?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/google-index">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is the Google index?</h1>                                                                                                             
+
+<p class="glossary-intro">The <dfn>Google index</dfn> is a database of all the pages on the web that the Googlebot has crawled. It stores textual information about webpages and all pages within the index have the potential to show up in the search results. Other search engines maintain their own <a href="https://www.theseoniverse.com/glossary/search-engine-index/">indexes</a>.</p>
+
+<h2>How do you get your website indexed</h2>
+
+<p>Given time your website should be indexed automatically. If you still feel it has not been indexed you can request Google to crawl an index your site within the Search Console by clicking "Fetch as Google" in the left hand menu. The index report, also in the left hand menu, will also show you how many of your pages are currently indexed.</p>
+
+<h2>What is the Google supplemental index?</h2>
+
+<p>The supplpemental index is a collection of secondary pages that Google deems to be less important and less trustworthy. Supplementary pages are far less likely to show up in the search results.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,225 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What are keywords?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/keywords">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What are keywords</h1>                                                                                                               
+
+<p class="glossary-intro"><dfn>Keywords</dfn> are the terms used to search for information on the internet. Keywords and keyword phrases are of particular concern for SEO as websites should ideally appear in the search results for the words users type into the search bar in order to find the product or service that they offer.</p>
+
+<h2>Keyword research</h2>
+
+<p>To determine the keywords with most potential users SEOs carry out keyword research. This involves using tools to determine how popular a search term is, the competition on that term from other websites, and the chances of ranking well for that term. Popular terms, with little competition are what SEOs are looking for in their research but the user's intent behind the keyword is also very important.</p>
+
+<h3>Searcher intent</h3>
+
+<p>If you own a used car business in London, you might be tempted to go after the keyword "<strong>cars</strong>" after finding that there are 301,000 monthly searches. However, the search intent behind "<strong>cars</strong>" is incredibly vague and you can't be sure that the user is really looking to buy a car – they could be looking for images of cars, the movie of the same name, a car hire company, the meaning of the word, and so on . It's unlikely that they're looking for your website.</p>
+
+<p>However, for the keyword phrase "<strong>ford fiesta for sale in london</strong>" the searcher intent is much clearer. There might only be 20 monthly searches for this term but with less competition and clear intent you are much more likely to be able to create a page that ranks, encourages clicks and ultimately generates sales. Most importantly, the searcher will be delighted to land on your website.</p>
+
+<p>If you find a few terms like this and rank for these terms the numbers soon add up.</p>
+
+<h3>Long-tail keywords</h3>
+
+<p>The above term "<strong>ford fiesta for sale in London</strong>" is also a long-tail keyword. Long-tail keywords are search queries which contain a few words and have more of a focus. It's also a transactional term as there is a high likelihood that the searcher is looking to make a purchase. The term "<strong>Cars</strong>" would be short-tail and would not be considered as much of an opportunity as it is not very focused.</p>
+
+<p>A large percentage of the 40,000 searches queries that occur every second are in the long-tail and this is where the real SEO opportunities lie. In order to find the right long-tail keywords that you should look to rank for an SEO would carry out extensive keyword research using various methods and tools. Here's a quick guide on how it's done:</p>
+
+<h2>A quick guide to keyword research in practice</h2>
+
+<p>The most popular tool for SEO keyword research is the <a href="https://adwords.google.com/ko/KeywordPlanner/">Keyword Planner</a> in Google <a href="https://www.theseoniverse.com/glossary/adwords">AdWords</a> – a tool more designed for PPC advertising but still incredibly useful for SEO. Here's a speedy overview on how to use it for keyword research:</p>
+
+<h4>Adwords Keyword Planner tool</h4>
+
+<p>By typing in a few choice phrases from a topic group, the Keyword Planner tool returns some further suggestions for keywords in that niche. SEOs then compile a list of these determining which keywords are the most worthwhile in targeting. The golden keywords to target have high search volume and low competition.</p>
+
+<p>For example, if your website sells custom built mountain bikes you can see exactly what terms people interested in this information are using to search for your service as follows:</p>
+
+<p><strong>1.</strong> Type a few phrases you think people would use to search for your website:</p>
+
+<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18.png"><img class="alignnone size-large wp-image-750" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.06.18-1024x414.png" alt="keyword planner search box" width="676" height="273" /></a></p>
+
+<strong>2.</strong> Click on the '<strong>get ideas</strong>' button and view the monthly search volume for these terms. Below you can see "<strong>custom bikes</strong>" with 1,300 searches is the most popular term.</p>
+
+<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05.png"><img class="alignnone size-large wp-image-751" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.09.05-1024x444.png" alt="keyword planner search volume" width="676" height="293" /></a></p>
+
+<p>However, we know that the more words contained in a search query the less competition it has. Although "<strong>custom built mountain bikes</strong>" has just 30 monthly searches compared to "<strong>custom bikes</strong>" 1,300, it's likely to be a far easier term to rank highly for. It's important to remember that there's no use targeting a keyword which is so competitive that nobody searching for it will ever see your webpage.</p>
+
+<p>To determine competition, <a href="https://www.theseoniverse.com/glossary/google">Google</a> the terms you find in your research and check the competition on page one of the SERPs. If you don't think you can create content that can compete with the term, find another less competitive term to target.</p>
+
+<p><em><strong>Note:</strong> the 'Competition' field refers to PPC bids and does not denote competition to rank in the SERPs.</em></p>
+
+<p><strong>3.</strong> Now check out the terms below the terms you searched for:</p>
+
+<p><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42.png"><img class="alignnone size-large wp-image-752" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-08-at-07.15.42-1024x451.png" alt="Screen Shot 2016-08-08 at 07.15.42" width="676" height="298" /></a></p>
+
+<p>The Keyword Planner tool returns thousands of related terms for you to explore. You should go through these identifying where the potential lies for your website and create content that targets these terms.</p>
+
+<p>Google's Keyword Planner is just one of many tools you can and should use to conduct SEO research. Determining where the potential to rank for keywords lies requires a lot of research using a variety of tools. Take a look at this <a href="http://www.robbierichards.com/seo/best-keyword-research-tool/">list of keyword research tools</a> from robbierichards.com.</p>
+
+<h2>How to rank for a keyword</h2>
+
+<p>To rank for a keyword there are a few factors to take into account. When creating content you should use the selected keyword naturally a few times throughout the content. For the best optimisation, try to use the keyword in the H1, meta page title and url. Mix it up though, and don't over do it. Using synonyms of the term can be just as effective if you're struggling to fit it in naturally.</p>
+
+
+<p>If the keyword is used in the meta description, the search engine won't take it into account as a ranking or relevancy factor, but the words will be bolded for searches using the keyword.</p>
+
+<p>Using the keyword in the <a href="https://www.theseoniverse.com/glossary/anchor-text">anchor text</a> of a few <a href="https://www.theseoniverse.com/glossary/internal-link">internal links</a> and encouraging the same in external links will also improve chances of ranking for that keyword.</p>
+
+<p>Be aware that ranking for a keyword is not just a case of including the term a number of times. Your content must first and foremost be high-quality and useful to the user or it won't stand a chance of ranking. Long gone are the days of manipulating the search engines by using keywords excessively and the search engines are on the lookout for a number of manipulative signals.</p>
+
+<h2>Keyword stuffing</h2>
+
+<p>Keyword density is the number of occurrences of a keyword on a single web page. In the old days of SEO, the more times a keyword appeared on the page the higher the chance it would rank for that term. Not anymore!</p>
+
+<p>The search algorithms have come on leaps and bounds in the last few years and will penalise a page that they deem to be trying to manipulate their system by keyword stuffing - cramming the keyword onto the page over and over again.</p>
+
+<p>This doesn't mean you shouldn't include the keyword though! Make sure you include it naturally a few times throughout the piece and use the vocabulary of the subject you're talking about and you'll get along just fine.</p>
+
+<h2>Keyword prominence</h2>
+
+<p>Keyword prominence refers to the placement of a given keyword within the source code of an HTML webpage. Keywords higher up the page are given a higher value that keywords lower down. It's best to have your first paragraph include the keyword and leave any sale-speak to the end.</p>
+
+<p>Keywords within title, heading tags  and hyperlinks are also given extra importance so you should strive to structure your page well and pay attention to where your keywords are.</p>
+
+<h2>Keyword Cannibalisation</h2>
+
+<p>Keywords cannibalisation is the excessive use of the same keyword across a number of pages within the same website. The search engines will find it difficult to determine which page it should rank for that term. Make sure that you choose a different keyword focus for all of your pages.</p>
+
+<h2>Keep it natural!</h2>
+
+<p>Although keywords are important for a good SEO  strategy, it's easy to over-think it. If you're knowledgeable about your subject you should use the keywords naturally - certainly don't try and force it. Keep it natural and remember that your page is being written for the user first!</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

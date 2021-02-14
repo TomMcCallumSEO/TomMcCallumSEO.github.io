@@ -1,0 +1,189 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is Google?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/google">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is Google?</h1>                                                                                                                  
+
+<p class="glossary-intro"><dfn>Google</dfn> is a multi-national company which owns and operates the world's most popular search engine. As a verb 'to Google' means to perform a search on the web.</p>
+
+<h2>The origins of Google</h2>
+
+<p>Google was founded by Stanford University graduates Sergey Brin and Larry Page in 1996. Originally called 'BackRub' the pair invented an engine that analysed <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a>. BackRub didn't receive much interest at the time as in the early days of the web nobody knew the impact that search would have. Undeterred, Brin and Page started operating the Google search engine from a garage in California in 1998.</p>
+
+<h2>What does Google mean?</h2>
+
+<p>Google is named after the word googol – a number with a numeral followed by a hundred zeros – to reflect the vast amount of information in the world. Google's early mission statement was:</p>
+
+<p><em>Google</em> was chosen for its resemblance to the word <a href="http://searchcio-midmarket.techtarget.com/definition/googol-and-googolplex">googol</a> – a number consisting of a numeral one followed by a hundred zeroes -- as a reference to the vast amount of information in the world. Google's self-stated mission: "to organize the world's information and make it universally accessible and useful.</p>
+
+<blockquote>
+<p style="text-align: center;">"To organize the world's information and make it universally accessible and useful".</p>
+</blockquote>
+
+<h2>Market share</h2>
+
+<p>Over the last two years Google's share of the search engine market in the UK has remained between 85% and 90%.</p>
+
+<p>Globally, <a href="https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&amp;qpcustomd=0">Google command over 70% of the market share</a> making it the most popular search engine by a country mile.</p>
+
+<h2>Why is Google so popular?</h2>
+
+<p>Google has become the market leader for a number of reasons, most of them relating to the fact that Google offers the best search experience on the web. This is a testament to the complexity of Google search algorithm which made up of a number of component parts. The main parts of the algorithm, and the ones all SEOs should familiarise themselves with are:</p>
+
+<h3>Panda</h3>
+
+<p>Analysing the web since 2011, the Panda update is on a mission to sort out quality content from poor quality content. Panda punishes sites for publishing (pretty much) any content that users won't find useful. 2011 was a busy time for SEOs.</p>
+
+<h3>Penguin</h3>
+
+<p>While Panda is about content Penguin is about links. Penguin's mission is to analyse linking patterns and to penalise any sites caught trying to manipulate links to gain an advantage in the SERPs.</p>
+
+<h3>Hummingbird</h3>
+
+<p>The Hummingbird update was a big step towards the search engine becoming more understanding of people. Hummingbird enabled Google to understand semantically linked words and phrases and begin to return results that were topically related to the original query, not just exactly the same.</p>
+
+<h3>Pigeon</h3>
+
+<p>Google's Pigeon is concerned with local searches and providing the best answers based on queries looking for localised results. Local businesses benefitted massively from this update with improved chances of being found in search by people in their area.</p>
+
+<h3>Rankbrain</h3>
+
+<p>Rankbrain is Google's artificial intelligence learning machine. Rankbrain can supposedly understand incredibly long and complex queries searching through billions of pages to find the most appropriate result. Rankbrain will continue to evolve over time and even Google claim they don't really know what it's up to.</p>
+
+<p>Find out more about the components of the Google algorithm and discover techniques for satisfying every one of them in <a href="http://www.seedpublicity.co.uk/googles-5-biggest-ranking-algorithm-updates-explained">this article from Seed Publicity</a></p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

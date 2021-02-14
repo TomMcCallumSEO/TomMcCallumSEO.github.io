@@ -1,0 +1,181 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is ecommerce?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/ecommerce">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+<div class="blog-left">
+
+<h1>What is ecommerce?</h1>                                                                                                               
+
+<p class="glossary-intro"><dfn>Ecommerce</dfn> is the term for any commercial transactions or business carried out on the Internet. It's a combination of  the words "electronic" and "commerce".</p>
+
+<h2>SEO for ecommerce</h2>
+
+<p>Ecommerce businesses rely on people visiting their website in order to make a profit. It makes sense that SEO is a major concern, however, due to the competition and, in most cases, number of pages, ecommerce SEO is usually quite a challenge.</p>
+
+<p>One of the most common types of ecommerce site that an SEO will come across is an consumer based retail site, or – to give its Sunday name – Business to Customer (B2C) services. B2C sites have a large number of SEO concerns that might differ from other non-commercial websites.</p>
+
+<h3>SEO for B2C websites</h3>
+
+<p>Here are a few of the biggest SEO concerns for B2C websites:</p>
+
+<h4>Site structure</h4>
+
+<p>Site structure and information architecture is a major area that a lot of ecommerce sites struggle with. An ecommerce platform such as Amazon can be enormous with hundreds of thousands of items for sale at any one time. The items must be grouped in a thoroughly thought out site structure that both users and search engine crawlers can easily navigate.</p>
+
+<p>The general rule is to group everything logically into categories and to keep the structure as simple and logical as possible. Implement good use of breadcrumbs and allow users to search and sort based on a number of options such as colour, price, size, etc. These will change depending on what products are on offer.</p>
+
+<p>A great example of an ecommerce site with brilliant site structure is the <a href="http://www.ikea.com/gb/en/">IKEA website</a>. The products are grouped in a way that makes it easy to hone in on the product that you want. Navigation bars and <a href="https://www.theseoniverse.com/glossary/breadcrumbs">breadcrumb</a> trails make it easy to work your way back up the hierarchy.</p>
+
+<h4>Product descriptions</h4>
+
+<p>Product descriptions are also important to let the users and search engines know more about exactly what it is you are selling on the page. A lack of any description or a thin description lacking in keywords will make it impossible for the page to come anywhere near ranking on page one.</p>
+
+<p>Be careful of<a href="https://www.theseoniverse.com/glossary/duplicate-content"> duplicate content</a> and don't to add the same or similar descriptions on different pages. It's easy to fall into the copy and paste trap with ecommerce sites but remember that the search engines will reward unique content. First and foremost, make sure the information is easy for the user to take in and provides them with all the information they need to decide whether or not to make a purchase.</p>
+
+<p>If a manufacturer provides you with a product description, don't use it as it it. It's likely that the same descriptions will be on pages all over the internet and as a result, search engines will be unlikely to consider your page for their index.</p>
+
+<h4>Product reviews</h4>
+
+<p>Encouraging product reviews from customers is a brilliant way to get free, unique, user generated content onto your pages. If your reviews are added to regularly the search engine's crawlers will be more likely to visit your site on a regular basis. Reviews are also a great UX feature - everybody likes to know what other customers think of the product they are about to purchase.</p>
+
+<h2>Next Steps</h2>
+
+<p>There are many other ways to boost an ecommerce site in the search results but if you get these fundamental points right you'll stand a good chance of ranking.</p>
+
+<p>For more on this subject check Kissmetrics' <a href="https://blog.kissmetrics.com/seo-for-ecommerce-websites/">Ultimate Guide to SEO for E-commerce Websites</a>.</p>
+
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is a directory?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/directory">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is a directory?</h1>                                                                                                                
+
+
+<p class="glossary-intro">A <dfn>directory</dfn>&nbsp;is a site where&nbsp;human editors can manually group websites into categories and give them descriptions. Websites are added by either the website owner or an administrator for the directory. This in different from, for example, a search engine directory where the information is collated by machines.</p>
+
+<h2>Example of a directory</h2>
+
+<p>An example of a directory website is the <a href="http://www.yelp.co.uk">Yelp</a> business directory. Business owners can add there business listing and add a description, address, images, opening hours and other relevant information. <a href="https://moz.com/blog/why-listing-accuracy-is-important-whiteboard-friday">Accurate business descriptions</a> and good keyword choice in the profile descriptions is a quick and easy&nbsp;technique&nbsp;for business owners to optimise their site for local search.</p>
+
+<h2>Directory listings and local SEO</h2>
+
+<p>Directories usually link back to the business website giving the search engines relevancy signals about the site. However, listing your local business on a low quality website, or providing conflicting or inaccurate information across a few directory listings, could give a negative signal or even get your website penalised.</p>
+
+<h2>UK business directories that provide free backlinks</h2>
+
+<p>Here's a handy list of local UK directory websites that you can get quality <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a> from. Remember to make sure your details are exactly the same across all listings so as not to confuse the search engines.</p>
+
+<h3><a href="http://www.118118.com/">118</a></h3>
+<h3><a href="http://www.bizbuzz.com">192</a></h3>
+<h3><a href="http://www.applegate.co.uk">Applegate</a></h3>
+<h3><a href="http://b99.co.uk">B99</a></h3>
+<h3><a href="https://www.bingplaces.com/">Bing Places for Business</a></h3>
+<h3><a href="http://www.bizwiki.co.uk/">Bizwiki</a></h3>
+<h3><a href="http://www.brownbook.net/">Brownbook</a></h3>
+<h3><a href="http://www.bizld.com/">Business Line</a></h3>
+<h3><a href="http://www.city-listings.co.uk">City-listings</a></h3>
+<h3><a href="http://www.cylex-uk.co.uk">Cylex</a></h3>
+<h3><a href="https://www.google.co.uk/business/go/>Google My Business</a></h3>
+<h3><a href="http://www.hotfrog.co.uk/">Hot Frog</a></h3>
+<h3><a href="https://www.linkedin.com/company/add/show">Linkedin</a></h3>
+<h3><a href="http://www.localdatasearch.com/">Local Data Search</a></h3>
+<h3><a href="http://www.look-trade.co.uk/">Look Trade</a></h3>
+<h3><a href="https://www.opendi.co.uk/">Opendi</a></h3>
+<h3><a href="http://www.pinbud.co.uk">Pinbud</a></h3>
+<h3><a href="http://www.scoot.co.uk">Scoot</a></h3>
+<h3><a href="http://www.touchlocal.com/add-listing">Touch Local</a></h3>
+<h3><a href="http://www.uk-local-search.co.uk/">UK Local Search</a></h3>
+<h3><a href="http://www.yalwa.co.uk">Yalwa</a></h3>
+<h3><a href="https://www.yelp.co.uk/">Yelp</a></h3>
+<h3><a href="https://www.yell.com/">Yell</a></h3>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

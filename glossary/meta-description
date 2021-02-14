@@ -1,0 +1,178 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is a meta description?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/meta-description">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is a meta description?</h1>
+
+<h1>What is a meta description?</h1>                                                                                                                 
+
+<p class="glossary-intro">A <dfn>meta description</dfn> is a short snippet of text that appears in the search results under the page title and url. The meta description describes the content of the page and should encourage the user to click by assuring them that the page contains the information that they are looking for.</p>
+                                                                                                                  
+<p class="glossary-intro"><a href="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50.png"><img class="size-large wp-image-817 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-08-31-at-07.40.50-1024x178.png" alt="seoniverse meta description" width="676" height="118" /></a></p>
+                                                                                                                  
+<p>The above is a search results snippet for the SEOniverse homepage. The purple text is the page title or meta title (the user in this case has clicked on the link before, otherwise it would be blue) the green text is the url and the dark grey text underneath is the meta description.</p>
+
+<h2>How to write a meta description</h2>
+                                                                                                                  
+<p class="glossary-intro">In the <strong>&lt;head&gt;</strong> section of your HTML webpage tag the  meta description tag should go directly under the <strong>&lt;title&gt;</strong>. It should looks like this:</p>
+
+<p><strong>&lt;meta name="description" content="The text in here is the meta description"&gt;</strong></pre><p>
+
+<h3>Character limit</h3>
+
+<p>Be aware that there is a limit on the length of your meta description. This is best understood as a character limit but is more accurately based on the number of pixels in your description. If you exceed the maximum number of pixels the search engine will cut off your meta description early with an ellipsis, as in the example below:</p>
+
+<p><a href="http://searchengineland.com/write-meta-description-gets-clickthroughs-207922"><img class="size-large wp-image-820 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2016/08/Screen-Shot-2016-09-08-at-08.07.06-1024x169.png" alt="search engine land truncated meta description" width="676" height="112" /></a></p>
+
+<p>Capital letters have more pixels than lower-case letters so a meta description written in capital letters will be permitted less characters. However, as a rough guide try to a maximum of 160 characters - anywhere between 140 and 160 characters is usually the optimal length for a meta description.</p>
+
+<h3>Exceptions</h3>
+<ul>
+ 	<li>If Google thinks the search query matches a snippet of the on page text better than your meta description they will often show that to the user instead.</li>
+ 	<li>If you're meta description is deemed to be too short, it is likely to be replaced by a snippet found on the page.</li>
+ 	<li>Results which are pulled into the <a href="http://searchengineland.com/library/google/google-knowledge-graph">Knowledge Graph</a> or <a href="https://builtvisible.com/answer-boxes/">Answer Boxes</a> are permitted a longer description. Pages in the first couple of places on the page are also often permitted a longer than normal description length.</li>
+</ul>
+
+<h2>Should you aways write a description?</h2>
+
+<p>Some sites have hundreds of thousands of pages and crafting unique copy for every page would be an ultimate waste of time. It's a good idea to spend time perfecting the copy on your main pages but further down the hierarchy it's perfectly fine to rely on Google creating a meta description based on your on page copy.</p>
+
+<h3>Should you use keywords?</h3>
+
+<p>Yes! Even though the meta description isn't taken into account by Google's algorithm, the keywords in the description that match the user's query are bolded. Take what you can when you're trying to get your description to stand out from the competition.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

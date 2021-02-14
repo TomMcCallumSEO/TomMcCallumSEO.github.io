@@ -1,0 +1,221 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is HTML?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/html">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+ 
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is HTML?</h1>                                                                                                                  
+
+
+<p class="glossary-intro"><dfn>HTML (HyperText Markup Language)</dfn> is the main language used on text based webpages across the web. It's a standardised system enabling text files to contain font, colour, graphics and hyperlinks.</p>
+
+<p>Web browsers are able to decode HTML and determine how the page will be displayed. For example, these opening and closing HTML tags <strong>&lt;strong&gt;</strong>text<strong>&lt;strong/&gt;</strong> tell the browser that the word text should be bold.</p>
+
+<h2>What can be done using HTML</h2>
+
+<p>HTML determines most word processing elements of text files and simple styles (CSS is the code language that handles the bulk of page styling) for example:</p>
+
+<h3>Page titles</h3>
+
+<p>Page titles are usually denoted in a hierarchical structure using heading tags H1 through to H6. H1 would normally be the main page title and H2, H3, and so on would be used to title the page's different sections. Title tags for an H1 look like this:</p>
+
+<p><strong>&lt;H1&gt;</strong>Example Text<strong>&lt;/H1&gt;</strong></p>
+
+
+<h3>Paragraphs</h3>
+
+<p>Paragraphs of normal text are also separated using paragraph, or 'p', tags. These look like this:</p>
+
+<p><strong>&lt;p&gt;</strong>example text<strong>&lt;/p&gt;</strong></p>
+
+<h3>Numbered and bulleted lists</h3>
+
+<p>Lists are another common tag in HTML and look like this:</p>
+
+<p><strong>&lt;ul&gt;</strong></p>
+
+<p><strong>&lt;li&gt;</strong>example text<strong>&lt;/li&gt;</strong></p>
+
+<p><strong>&lt;li&gt;</strong>example text<strong>&lt;/li&gt;</strong></p>
+
+<p><strong>&lt;/ul&gt;</strong></p>
+
+<p>The 'ul' stands for unordered list and the two listed examples in 'li' tags would appear as bullet points.</p>
+
+<p><strong>&lt;ol&gt;</strong></p>
+
+<p><strong>&lt;li&gt;</strong>example text<strong>&lt;/li&gt;</strong></p>
+
+<p><strong>&lt;li&gt;</strong>example text<strong>&lt;/li&gt;</strong></p>
+
+<p><strong>&lt;/ol&gt;</strong></p>
+
+<p>The 'ol' stands for 'oredered list' and the two listed examples in 'li' tags would appear as numbered points 1 and 2.</p>
+
+<h3>Bold, italics and underlined text</h3>
+
+<p>These common word processing commands are also ver common in HTML. They are applied as follows:</p>
+
+<h4>Bold</h4>
+
+<p><strong>&lt;strong&gt;</strong>example text<strong>&lt;/strong&gt;</strong></p>
+
+<h4>Italics</h4>
+
+<p><strong>&lt;em&gt;</strong>example text<strong>&lt;/em&gt;</strong></p>
+
+<h4>underlined</h4>
+
+<p><strong>&lt;u&gt;</strong>example text<strong>&lt;/u&gt;</strong></p>
+
+<h2>Hyperlinks</h2>
+
+<p>Hyperlinks are also most commonly put into webpages using HTML. The following is an example of how you would add a <a href="https://www.theseoniverse.com/glossary/backlinks">backlink</a> to The SEOniverse homepage:</p>
+
+<p><strong>&lt;a href="http://www.theseoniverse.com"&gt;</strong>example text<strong>&lt;/a&gt;</strong></p>
+
+<p>Table, forms and many other elements are options within the language of HTML. Check out <a href="http://www.w3schools.com/">w3 Schools</a> for more information about what you can do with HTML code.</p>
+
+<h2>Viewing HTML in your browser</h2>
+
+<p>You can take a sneak peak at HTML within a browser by either right clicking or going to the top navigation bar and selecting View &gt; Source. This is quite a handy function for SEO to quickly determine how a page is structured.</p>
+
+<h2>Should all copywriters learn HTML?</h2>
+
+<p>YES! Writing HTML lets you get a clearer idea of how the search engines will read the text on your webpage. While most copywriters will use WYSIWYG (What You See Is What You Get) editors, you might end up looking foolish if you turn up to work at a place that only has an HTML editor. HTML gives you more idea of how the page is structured and gives you more control over how the page will render in the browser.</p>
+
+<p>W3 schools, the body maintaining the standards of HTML, have a good <a href="http://www.w3schools.com/html/default.asp">HTML tutorial</a> on their site. It shouldn't take you to long to grasp the basics.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

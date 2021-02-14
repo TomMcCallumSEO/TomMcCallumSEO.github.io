@@ -1,0 +1,220 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is duplicate content?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/duplicate-content">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+
+<!-- header content -->
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is duplicate content?</h1>
+
+<p class="glossary-intro"><dfn>Duplicate content</dfn> is content deemed by a search engine's algorithm to be the same as content found in another place on the web.</p>
+Google used to penalise sites with duplicate content issues and many big-name brands' websites were devastated by this penalty.</p>
+
+<p>Penalties are no longer dealt out willy-nilly, but duplicate content is still a major issue in SEO.</p>
+
+<h2>Why is duplicate content still a problem?</h2>
+
+<p>Issues might  arise for a number of different reasons including:</p>
+
+<h3>Guest blogging</h3>
+
+<p>Bad practices in guest blogging have been a contentious issue in SEO for a number of years - not least because of duplicate content.</p>
+
+<p>Some bloggers will write an article on their own site and pass on the exact same post to other blogs to publish. Regardless of how excellent the post is, the search engines might not be sure of which version to rank.</p>
+
+<p>Search engines look to rank quality, unique content. Duplicate content might be quality but it is not unique.</p>
+
+<h3>Verification pages</h3>
+
+<p>If a user completes an action on one page, such as entering an email address, they are often served the same content on a different url with an additional verification message such as "thanks for your email".</p>
+
+<p>You have to be careful with this as the search engines will see these two pages as duplicates.</p>
+
+<p>Bear in mind that content accessed by filling in forms is generally hidden to search engines, as they don't fill in boxes to browse the web - they just follow links really. But verification pages could still be accessed, if they're included in your sites XML Sitemap or linked to externally for example, so it's best to treat them as you would other duplicate content.</p>
+
+<h3>Spammers</h3>
+
+<p>Scraping (where a spammer effectively copy and pastes your site's content onto another domain) is an obvious concern. However, search engines are pretty good at identifying scraped sites and this shouldn't be an issue.</p>
+
+<p>If you find you are having problems, you can report scrapers to Google.</p>
+
+<h2>Avoiding duplicate content issues</h2>
+
+<p>To avoid confusion or complications, there are a few things you can do:</p>
+
+<h3>Canonical tags</h3>
+
+<p>Implementing canonical tags on all dubious content is a highly recommended method for avoiding duplication issues. In the head section of the original page (P1), put a canonical tag pointing to itself. On the duplicated page (P2) put a canonical tag pointing to the original page. For example:</p>
+
+<h4>P1</h4>
+
+<p><strong>&lt;link rel="canonical" href="https://www.P1.com"&gt;</strong></p>
+
+<h4>P2</h4>
+
+<p><strong>&lt;link rel="canonical" href="https://www.P1.com"&gt;</strong></p>
+
+<p>The search engine will be in no doubt that P1 is the page that should be considered. With canonical tagging , Google juice from links to P2 will be passed on to P1.</p>
+
+<p>Implementing canonical tags across all your content, even if it's not duplicated, is smart practice. This is because scrapers are often lazy and will neglect to change or remove the canonicalisation.</p>
+
+<h3>Robots.txt</h3>
+
+<p>If you have serious issues, there are some more heavy-handed ways to stop Google seeing the duplicate page. The most heavy-handed is adding the duplicate url to your site's robots.txt file. This will stop most <a href="https://www.theseoniverse.com/glossary/crawlers">crawlers</a> from accessing the page. Unfortunately, any links will not be passed on to the original page with this technique.</p>
+
+<p>Using robots.txt was a popular method for sorting duplication issues when it was penalised, however, there are now far better ways to combat duplication.</p>
+
+<h3>noindex, follow</h3>
+
+<p>Adding the "noindex, follow" meta robots tag:</p>
+
+<p><strong>&lt;meta name="robots" content="noindex,follow" &gt;</strong></p>
+
+<p>to the head section of the duplicate page's html will tell the robots not to index this page to be found in search, but still to follow all the links on the page.</p>
+
+<p>However, some users believe that this tag is unreliable. While Google and many leading SEOs are adamant that it works as it should, there are other options that would be safer to stick to.</p>
+
+<h3>301 redirects</h3>
+
+<p>Redirecting the duplicate page to the original page is another method that many webmaster a implement when updating content across their sites, particularly in a site-structure reshuffle. However, this won't help you if you can't access the redirect file for the duplicate pages.</p>
+
+<h2>How much should you worry about duplication?</h2>
+
+<p>As long as you're not using duplicate content to deliberately game the search engines, you shouldn't be worried about too much. If you have a couple of duplicate guest posts kicking about, it's probably going to be ok.</p>
+
+<p>Just make sure you're implementing canonical tags where possible and you shouldn't run in to any major trouble.</p>
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

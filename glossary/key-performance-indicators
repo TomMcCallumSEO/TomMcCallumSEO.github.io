@@ -1,0 +1,193 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What are key performance indicators?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/key-performance-indicators">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What are Key Performance Indicators?</h1>                                                                                                                
+
+<p class="glossary-intro"><dfn>Key performance indicators</dfn> (<abbr>KPIs</abbr>) are measurable values that demonstrate how effectively you are reaching your targets.</p>
+
+<h2>SEO KPIs</h2>
+
+<p>There are a number of KPIs that you should keep track of to gauge the success of your SEO strategy:</p>
+
+<h3 class="glossary-intro">Traffic</h3>
+
+<p>The number of people coming to your website is certainly a key performance indicator for SEO. A successful SEO strategy will see a rise in organic traffic – visitors who discover your website from search organically as opposed to coming through a call-to-action from social, email or paid advertising or from typing your brand name directly in a navigational search. Organic traffic can be measured as:</p>
+
+<h4>Sessions</h4>
+
+<p>The number of times your website was accessed, regardless of repeat visits. If a user from the same <a href="https://www.theseoniverse.com/glossary/internet-protocol">IP address</a> visited your site 100 times this would count as 100 visits.</p>
+
+<h4>Users</h4>
+
+<p>The number of individuals who visited your website. If a user from the same IP address accessed your website 100 times this would only count as 1 visits.</p>
+
+<h3>Time on site</h3>
+
+<p>Quite simply as it sounds. Time on site is the average length of time users spend on your site.</p>
+
+<h3>Time on page</h3>
+
+<p>Time on page is also just as it sounds – it's the average length of time users spend on a particular page.</p>
+
+<h3>Bounce rate</h3>
+
+<p>A bounce is when a user visits one page on your site and leaves without navigating to another page. A bounce is counted regardless of how long the user spends on the page. <a href="https://www.theseoniverse.com/glossary/bounce-rate">Bounce rate</a> is the percentage of users that bounce on a particular page.</p>
+
+<h3>Pages per session</h3>
+
+<p>Pages per session is the average number of pages visited in all sessions on your website. A good <a href="https://www.theseoniverse.com/glossary/internal-link">internal linking</a> structure will encourage people to visit more pages.</p>
+
+<h3>Custom goals</h3>
+
+<p>In analytics programmes,  goals can be set for just about anything. A common example of a goal on an ecommerce site would be a user placing an order. However, goals could be visits to certain pages, a user watching a video, a signup to an email newsletter and so on. You should determine what goals your website is attempting to achieve and track those accordingly.</p>
+
+<h3>Conversion rate</h3>
+
+<p><a href="https://www.theseoniverse.com/glossary/conversion">Conversion</a> rate is the percentage of users that perform a task that you have predetermined to be a goal. An example for a goal would be a user placing an order on an ecommerce website.  If half the users on the site place an order the conversion rate would be 50%.</p>
+
+<h3>Keyword ranking</h3>
+
+<p>Tracking your websites ranking will give you an idea of how well your pages are performing in search, and how the search engine algorithms value them.</p>
+
+<h3>Backlinks</h3>
+
+<p>Using tools to measure the number of <a href="https://www.theseoniverse.com/glossary/backlinks">backlinks</a> - their frequency, where they're coming from, the <a href="https://www.theseoniverse.com/glossary/authority">authority</a> and relevance of the sites they come from, the pages they are linking - is important to  properly gauge the effectiveness of your content and outreach strategy. Few and infrequent backlinks will tell you that you need to rethink your strategy and perhaps do a spot of link building.</p>
+
+<p>You should also closely monitor backlinks to make sure no spam links are coming to you. If you are being overwhelmed by spammers you can always disavow the dodgy links.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html> 
+<html>
+
+<head> 
+
+  <title>What is an HTTP status code?</title> 
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="canonical" href="https://www.theseoniverse.com/glossary/https-status-code">
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  
+  <link rel="stylesheet" type="text/css" href="https://www.theseoniverse.com/styles/layout-styles.css">
+  
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82439928-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82439928-1');
+</script>
+
+<!-- Cookie script -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#fd8824"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-left",
+  "content": {
+    "dismiss": "Got it!"
+  }
+})});
+</script>
+  
+</head>
+
+<body> 
+
+<header>
+  <a href="#main-menu"
+     role="button"
+     id="main-menu-toggle"
+     class="menu-toggle"
+     aria-expanded="false"
+     aria-controls="main-menu"
+     aria-label="Open main menu">
+
+      <img src="https://www.theseoniverse.com/images/burger-menu.png" height="30" width="36">
+    <span class="sr-only">Open main menu</span>
+    <span class="fa fa-bars" aria-hidden="true"></span>
+  </a>
+  
+  <h1 class="logo"><a href="https://www.theseoniverse.com">The SEOniverse</a></h1>
+  
+  <nav id="main-menu" role="navigation" class="main-menu" aria-expanded="false" aria-label="Main menu">
+    <a href="#main-menu-toggle"
+       role="button"
+       id="main-menu-close"
+       class="menu-close"
+       aria-expanded="false"
+       aria-controls="main-menu"
+       aria-label="Close main menu">
+       <p style="margin:0;">X</p>
+      <span class="sr-only">Close main menu</span>
+      <span class="fa fa-close" aria-hidden="true"></span>
+    </a>
+    <ul>
+      <li><a href="https://www.theseoniverse.com/about/">About</a></li>
+      <li><a href="https://www.theseoniverse.com/blog/">Blog</a></li>
+      <li><a href="https://www.theseoniverse.com/glossary/">Glossary</a></li>
+      <li><a href="https://www.theseoniverse.com/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  <a href="#main-menu-toggle"
+     class="backdrop"
+     tabindex="-1"
+     aria-hidden="true" hidden></a>
+</header>
+<!--header content ends -->
+
+<!-- page content begins -->
+
+<div class="container">
+
+<div class="blog-left">
+
+<h1>What is an HTTP status code?</h1>                                                                                                                
+
+<p class="glossary-intro">An <dfn><abbr>HTTP</abbr> status code</dfn> is a response from a server which identifies the reason why a webpage did or did not not load properly.</p>
+The most commonly known status code is probably a 404, indicating that the requested page can not be found and serving a page that lets the user know. 404 response pages are often customised, such as this error page from Airbnb.</h1>
+                                                                                                                  
+<p ><a href="https://www.theseoniverse.com/wp-content/uploads/2017/01/airbnb404.jpg"><img class="size-full wp-image-987 aligncenter" src="https://www.theseoniverse.com/wp-content/uploads/2017/01/airbnb404.jpg" alt="404 pag for air b n b" width="535" height="312" /></a></p>
+
+<p>HTTP status codes are also commonly referred to as browser error codes or internet error codes.</p>
+
+
+<h2>HTTP status code groups</h2>
+
+<p><strong>1xx – </strong>This group states that the server has received the request and is continuing the process. Servers won't send a 1xx response to clients except occasionally under experimental conditions.</p>
+
+<p><strong>2xx – </strong>The 2xx group is generally good news. This group indicates that the server has accepted, understood and processed the request.</p>
+
+<p><strong>3xx – </strong>This group indicates that the user request needs redirected to another resource.</p>
+
+<p><strong>4xx – </strong>This group of HTTP status codes generally indicate client-side errors – human errors where the web user has made a mistake. For example, by requesting a page that doesn't exist, perhaps because of a typo in the url, or where a request for a webpage cannot be honoured for some other reason.</p>
+
+<p><strong>5xx – </strong>This group indicates a server error. An apparently valid request failed to receive a response. The server usually sends a message to indicate whether this is a temporary or permanent error.</p>
+
+<h2>A list of all the HTTP status codes</h2>
+
+<h3>1xx</h3>
+
+<p><strong>100 Continue – </strong>The server has received the request and is processing it as normal with nothing amiss so far. The client should continue to send the remainder of the request.</p>
+
+<p><strong>101 Switching Protocols –</strong> The client request has asked the server to use a different protocol but the server will only do so if it advantageous. For example, upgrading from an outdated HTTP protocol to the latest version.</p>
+
+<p><strong>102 Processing (WebDAV) – </strong>The server has received the request but the response is not yet available. This can be used to prevent the client  timing out under the assumption the request was lost.</p>
+
+<h3>2xx</h3>
+
+<p><strong>200 OK –</strong> This is the standard response from HTTP servers when the client request has been acted upon successfully. In a GET request, the server will respond with the requested resource, in the case of a POST request, the response will contain an entity describing or containing the result of the action.</p>
+
+<p><strong>201 Created – </strong>The request has been fulfilled and a new resource has been created.</p>
+
+<p><strong>202 Accepted – </strong>The request has been accepted but is still being processed. A 202 response, however,  does not promise the request will be delivered on when processing is complete, or even that processing will be completed.</p>
+
+<p><strong>203 Non Authoritative Information – </strong>The server is returning a modified version of the original response.</p>
+
+<p><strong>204 No Content – </strong>Everything's fine with the request and response but there's no content to return.</p>
+
+<p><strong>205 Reset Content – </strong>Same as a 204 except that the client must reset the document view.</p>
+
+<p><strong>206 Partial Content – </strong>The server is only delivering part of the resource as specified by the client.</p>
+
+<p><strong>207 Multi-status – </strong>The message body is an <a title="XML" href="https://en.wikipedia.org/wiki/XML">XML</a> message and can contain a number of response codes, depending on how many sub-requests were made.</p>
+
+<p><strong>208 Already Reported – </strong>Used inside a <a href="http://www.webdav.org/other/faq.html">DAV</a> to avoid enumerating multiple members repeatedly.</p>
+
+<p><strong>226 IM Used – </strong>The response includes Instance Manipulation, meaning the original response has been modified.</p>
+
+<h3>3xx</h3>
+
+<p><strong>300 Multiple Choices – </strong>There are multiple resources available – for example, different video formats – from which the client must choose.</p>
+
+<p><strong>301 Moved Permanently – </strong>This and all other requests must be redirected to the given URI.</p>
+
+<p><strong>302 Found – </strong>The client request should be redirected temporarily, the original URI will be restored.</p>
+
+<p><strong>303 See Other – </strong>The response can be found under another URI.</p>
+
+<p><strong>304 Not Modified –</strong> The requested resource has not been modified since the last time the user requested it so does not need to be transmitted again.</p>
+
+<p><strong>305 Use Proxy – </strong>The requested resource is only available through a specified proxy. Many browsers deliberately don't handle this request for security reasons.</p>
+
+<p><strong>306 Switch Proxy –</strong> This status code is no longer in use. It used to mean that subsequent requests should go via the specified proxy.</p>
+
+<p><strong>307 Temporary Redirect – </strong>The request should redirect to another URI, but subsequent requests should use the original URI.</p>
+
+<p><strong>308 Permanent Redirect – </strong>This request and all subsequent requests should redirect to a specified URI. 308 is not the same as a 301 as it does not allow the HTTP method to change.</p>
+
+<h3>4xx</h3>
+
+<p><strong>400 Bad Request –</strong> The server cannot or will not process the request due to an apparent client error (e.g., malformed request syntax, too large size, invalid request message framing, or deceptive request routing.</p>
+
+<p><strong>401 Unauthorised –</strong> The user needs permission to access the page but the required authentication has not been provided or the IP address has been banned.</p>
+
+<p><strong>402  Payment Required – </strong>This code was very much looking ahead to a system of digital cash and micropayments for using certain websites which has not been adopted as yet. As a result, this code is not often used. Some websites do use 402s to indicate the user has exceeded the maximum number of requests allowed in a certain time period.</p>
+
+<p><strong>403 Forbidden –</strong> The user request was valid but the server is doing it's best to ignore it. A reason migt be that the user is logged in but doesn't have the permissions needed to accesss resource.</p>
+
+<p><strong>404 Not Found –</strong> A real classic.  The requested resource is not available at the moment of request - but that's not to say that there won't be something here in the future.</p>
+
+<p><strong>405 Method Not Allowed – </strong>The method used to request a resource is not supported. This code is often associated with forms.</p>
+
+<p><strong>406 Not Acceptable – </strong>The server can't send data that was requested. This could be an image that the '<a href="https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html">Accept header</a>' of the request has specified as unacceptable, for example, an image in a certain file format.</p>
+
+<p><strong>407 Proxy Authentication Required</strong> – The resource is not available until the client authenticates itself with the <a href="https://en.wikipedia.org/wiki/Proxy_server">proxy server</a>.</p>
+
+<p><strong>408 Request Time-out – </strong>The server timed out waiting for the request from the client. The request can be repeated without changes at a later time.</p>
+
+<p><strong>409 Conflict</strong> – The request could not be processed because of conflict in the request. An example would be an edit conflict between multiple simultaneous updates.</p>
+
+<p><strong>410 Gone</strong> – Indicates that the resource requested has gone and will not be coming back. This code should be used when a webpage has been removed forever. The resource should be removed, or in techy terms, purged. A 410 is very similar to a 404 except, unlike a 404, the client shouldn't request the resource in the future. Search engines coming across a 410 status code should remove the resource from their index.</p>
+
+<p><strong>411 Length Required – </strong>The request did not specify the length of its content so the server refuses to accept it. A valid content length header field needs to be added for the client to successfully repeat the request.</p>
+
+<p><strong>412 Precondition Failed</strong> – The server does not meet one of the preconditions that was requested.</p>
+
+<p><strong>413 Payload Too Large</strong> – The request is too large for the server to process.<sup id="cite_ref-44" class="reference"></sup></p>
+
+<p><strong>414 URI Too Long –</strong> The Uniform Resource Identifier (<a href="https://en.wikipedia.org/wiki/URI">URI</a>), which is the string of characters used to identify a resource, provided was too long for the server to process. Often the result of too much data being encoded as a query-string of a GET request, in which case it should be converted to a POST request. The most common type of URI is a Uniform Resource Locater, commonly URL, which is often referred to simply as a web address.</p>
+
+<p><strong>415 Unsupported Media Type –</strong> The request entity has a media type which the server or resource does not support. For example, the client uploads an image in a format that is not used or recognised by the server.</p>
+
+<p><strong>416 Range Not Satisfiable</strong> – The client has asked for a portion of the file but the server can't supply it.<sup id="cite_ref-48" class="reference"></sup></p>
+
+<p><strong>417 Expectation Failed – </strong>The server cannot meet the requirements of the Expect request-header field sent by the client.</p>
+
+<p><strong>418 I'm a Teapot –</strong> This code was introduced in 1998 as one of the traditional <a href="https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force">IETF</a> <a class="mw-redirect" title="April Fools' Day RFC" href="https://en.wikipedia.org/wiki/April_Fools%27_Day_RFC">April Fools' jokes</a> in association with the <em><a title="Hyper Text Coffee Pot Control Protocol" href="https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol">Hyper Text Coffee Pot Control Protocol.</a></em>It's not expected to be implemented by actual HTTP servers. The 418 code should be returned by teapots requested to brew coffee.</p>
+
+<p><span id="421"></span><strong>421 Misdirected Request –</strong> The request was directed at a server that is unable to provide a response.</p>
+
+<p><span id="422"></span><strong>422 Unprocessable Entity</strong> <strong>– </strong>There's nothing wrong with the request adn the server understands the content type and syntax, but it was unable to be followed due to semantic errors.</p>
+
+<p><span id="423"></span><strong>423 Locked –</strong> The requested resource is locked.</p>
+
+<p><strong>424 Failed Dependency –</strong> The current request failed due to failure of a previous request.</a></p>
+
+<p><strong>426 Upgrade Required –</strong> The client should switch to a different protocol in order to conform to the standard defined by the latest <a href="https://tools.ietf.org/rfc/index">RFC</a> publication.</a>
+
+<p><strong>428 Precondition Required –</strong> The origin server requires the request to be conditional.</p>
+
+<p><strong>429 Too Many Requests –</strong> The user has sent too many requests in a given amount of time. There may be a time period that the user has to wait before trying again.</p>
+
+<p><strong>431 Request Header Fields Too Large –</strong> The server refuses to process the request because an individual header field, or all the header fields collectively, are too large.</p>
+
+<p><strong>451 Unavailable For Legal Reasons – </strong>The server has been legally demanded to deny access to a resource or to a set of resources that includes the requested resource. The code 451 was chosen as a reference to the Ray Bradbury novel, Fahrenheit 451.</p>
+
+<h3>5xx</h3>
+
+<p><strong>500 Internal Server Error – </strong>A generic message indicating an error but offering little more information, probably because there is no more information available.</p>
+
+<p><strong>501 Not Implemented – </strong>The request was not completed as the server did not support the required functionality.</p>
+
+<p><strong>502 Bad Gateway – </strong>The upstream server gave an invalid response and the request was not completed.</p>
+
+<p><strong>503 Service Unavailable –</strong> The server is temporarily down, possibly due to being overloaded, and the request cannot be completed.</p>
+
+<p><strong>504 Gateway Timeout – </strong>The server did not respond to the request in a reasonable timeframe and is not going to complete the request.</p>
+
+<p><strong>505 HTTP Version Not Supported –</strong> The server does not support the HTTP protocol version.</p>
+
+<h2><a href="https://www.theseoniverse.com/glossary/">Back to the SEO glossary &rarr;</a></h2>
+</div>
+
+<div class="side-bar">
+<h3>Latest from the blog</h3>
+ <p><a href="https://www.theseoniverse.com/blog/local-seo-edinburgh">Local SEO for Edinburgh small businesses</a></p>
+<p><a href="https://www.theseoniverse.com/blog/seo-jokes">8 brilliant SEO jokes</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/the-right-way-to-use-alt-tags-for-seo">The right way to use alt tags for SEO</a></p>
+
+<p><a href="https://www.theseoniverse.com/blog/72-free-seo-tools-2017">72 free SEO tools</a></p>
+
+
+</div>
+
+<!--page content ends -->
+
+
+<!-- footer content-->
+
+<div class="footer">
+  <div class="footer-content-left">
+  <h4>Resources</h4>
+  <p><a href="https://www.theseoniverse.com/blog/">Blog</a></p>
+  <p><a href="https://www.theseoniverse.com/glossary/">Glossary</a></p>
+<p><a href="https://www.theseoniverse.com/about/">About</a></p>
+<p><a href="https://www.theseoniverse.com/privacy/">Privacy</a></p>
+  
+  </div>
+  <div class="footer-content-right">
+  <h4>Get in touch</h4>
+  <p>theseoniverse@gmail.com</p>
+  </div>
+  
+
+</div>
+
+</body>
+
+</html>
